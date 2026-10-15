@@ -1,0 +1,1067 @@
+{
+  "app": "memory-lane",
+  "format": 1,
+  "items": {
+    "song-aint-no-sunshine": {
+      "type": "song",
+      "title": "Ain’t No Sunshine",
+      "artist": "Bill Withers",
+      "year": 1971,
+      "cats": [
+        "Love Songs"
+      ],
+      "seconds": 120,
+      "facts": [
+        "Bill Withers was working in a factory making toilet seats for 747 airplanes when he wrote this.",
+        "On the record he sings “I know” 26 times in a row. He meant to write more words there, but the band told him to leave it.",
+        "It won a Grammy for Best R&B Song."
+      ],
+      "listen": [
+        "Listen for “I know, I know, I know…” How many can you count?",
+        "Listen for the questions he asks: where has she gone?"
+      ],
+      "ask": [
+        "We all have those gray days. What’s one thing that always cheers you up?",
+        "Is there someone you miss when they’re away?",
+        "Do you like sunny days or cloudy days best?"
+      ],
+      "lyrics": "Ain't no sunshine when she's gone\nIt's not warm when she's away\nAin't no sunshine when she's gone\nAnd she's always gone too long,\nAnytime she goes away\n\nWonder this time where she's gone\nWonder if she's gone to stay\nAin't no sunshine when she's gone\nAnd this house just ain't no home,\nAnytime she goes away\n\nAnd I know, I know, I know, I know\nHey,\nI ought to leave young thing alone\nBut ain't no sunshine when she's gone",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-all-i-have-to-do-is-dream": {
+      "type": "song",
+      "title": "All I Have To Do Is Dream",
+      "artist": "The Everly Brothers",
+      "year": 1958,
+      "cats": [
+        "Love Songs"
+      ],
+      "seconds": 140,
+      "facts": [
+        "The Everly Brothers recorded this classic in just two takes.",
+        "It went to number one on the pop, country and R&B charts all at the same time.",
+        "It was written by a husband-and-wife team, Felice and Boudleaux Bryant."
+      ],
+      "listen": [
+        "Listen for the word “dream.” It comes four times in a row!",
+        "Listen for the two brothers singing together in harmony."
+      ],
+      "ask": [
+        "Who was your first ‘dream’ or celebrity crush when you were young?",
+        "Did you ever go to a dance with someone special?",
+        "Do you remember your dreams when you wake up?"
+      ],
+      "lyrics": "Dream, dream, dream, dream\nWhen I want you in my arms,\nWhen I want you and all your charms\nWhenever I want you,\nall I have to do is Dream, dream, dream, dream\n\nWhen I feel blue in the night,\nAnd I need you to hold me tight\nWhenever I want you, all I have to do is Dream\n\nI can make you mine, taste your lips of wine,\nAnytime, night or day\nOnly trouble is, gee whiz,\nI’m dreamin' my life away\n\nI need you so that I could die,\nI love you so and that is why\nWhenever I want you,\nall I have to do is Dream, dream, dream, dream",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-the-bare-necessities": {
+      "type": "song",
+      "title": "The Bare Necessities",
+      "artist": "The Jungle Book (Disney)",
+      "year": 1967,
+      "cats": [
+        "Movies & Shows",
+        "Feel-Good"
+      ],
+      "seconds": 140,
+      "facts": [
+        "The songwriter originally wrote much darker songs for the film. Walt Disney replaced them all except this one.",
+        "Baloo the bear was voiced by bandleader Phil Harris.",
+        "It was nominated for an Academy Award for Best Song."
+      ],
+      "listen": [
+        "Listen for the animals and bugs: bees and ants!",
+        "Listen for what the bees are making."
+      ],
+      "ask": [
+        "What are the ‘bare necessities’ that make you happy every day?",
+        "Did you ever go to the movies to see a Disney film?",
+        "If you could be any animal for a day, which would you be?"
+      ],
+      "lyrics": "Look for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\nI mean the bare necessities,\nOld Mother Nature's recipes\nThat brings the bare necessities of life\n\nWherever I wander, wherever I roam,\nI couldn't be fonder of my big home\nThe bees are buzzin' in the tree to make some honey just for me\nWhen you look under the rocks and plants\nAnd take a glance at the fancy ants,\nthen maybe try a few…\nThe bare necessities of life will come to you,\nThey’ll come to you!\n\nLook for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\nI mean the bare necessities,\nThat’s why a bear can rest at ease\nWith just the bare necessities of life",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-blackbird": {
+      "type": "song",
+      "title": "Blackbird",
+      "artist": "The Beatles",
+      "year": 1968,
+      "cats": [
+        "The Beatles",
+        "Gentle"
+      ],
+      "seconds": 140,
+      "facts": [
+        "Paul McCartney wrote this as a symbol of hope during the Civil Rights movement in the 1960s.",
+        "Paul plays it alone on an acoustic guitar. You can hear a real blackbird singing on the record.",
+        "The guitar part was inspired by a piece by Bach."
+      ],
+      "listen": [
+        "Listen for what the blackbird is learning to do.",
+        "Listen for the night and the light."
+      ],
+      "ask": [
+        "Do you enjoy the sound of birds in the morning, or do they wake you up too early?",
+        "Did you ever feed the birds?",
+        "What helps you feel free?"
+      ],
+      "lyrics": "Blackbird singing in the dead of night,\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise\n\nBlackbird singing in the dead of night\nTake these sunken eyes and learn to see,\nAll your life\nYou were only waiting for this moment to be free\nBlackbird, fly,\nInto the light of the dark black night\n\nBlackbird singing in the dead of night\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-blue-moon": {
+      "type": "song",
+      "title": "Blue Moon",
+      "artist": "Rodgers & Hart",
+      "year": 1934,
+      "cats": [
+        "Love Songs",
+        "Gentle"
+      ],
+      "seconds": 150,
+      "facts": [
+        "It took three different sets of lyrics before this song finally became a hit.",
+        "The Marcels made a bouncy “bomp-ba-bomp” version that went to number one in 1961.",
+        "Elvis, Frank Sinatra and Billie Holiday all recorded it."
+      ],
+      "listen": [
+        "Listen for the moon changing color at the end.",
+        "Listen for who the singer is praying for."
+      ],
+      "ask": [
+        "Do you remember a ‘Blue Moon’ of your own? Or do you just like a good slow dance?",
+        "Did you ever go out walking under the moon?",
+        "Who was the best dancer you ever knew?"
+      ],
+      "lyrics": "Blue moon, You saw me standing alone\nWithout a dream in my heart,\nWithout a love of my own\n\nBlue moon,\nYou knew just what I was there for\nYou heard me saying a prayer for,\nSomeone I really could care for\n\nAnd then there suddenly appeared before me\nThe only one my arms will hold\nI heard somebody whisper please adore me\nAnd when I looked to the moon it turned to gold\n\nBlue moon, Now I'm no longer alone\nWithout a dream in my heart,\nWithout a love of my own",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-cant-help-falling-in-love": {
+      "type": "song",
+      "title": "Can’t Help Falling In Love",
+      "artist": "Elvis Presley",
+      "year": 1961,
+      "cats": [
+        "Love Songs",
+        "Gentle"
+      ],
+      "seconds": 140,
+      "facts": [
+        "The melody is based on a French love song from 1784 called Plaisir d’amour.",
+        "Elvis sang it in the movie Blue Hawaii.",
+        "Elvis closed almost every concert in the 1970s with this song."
+      ],
+      "listen": [
+        "Listen for the river flowing to the sea.",
+        "Listen for what the wise men say."
+      ],
+      "ask": [
+        "Is there a song that always reminds you of your wedding day?",
+        "Did you ever see Elvis in a movie?",
+        "How did you meet someone you loved?"
+      ],
+      "lyrics": "Wise men say only fools rush in\nBut I can't help falling in love with you\n\nShall I stay? Would it be a sin\nIf I can't help falling in love with you?\n\nLike a river flows, Surely to the sea\nDarling, so it goes,\nSome things are meant to be\n\nTake my hand, Take my whole life, too\nFor I can't help falling in love with you",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-take-me-home-country-roads": {
+      "type": "song",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "year": 1971,
+      "cats": [
+        "Country & Western",
+        "Feel-Good"
+      ],
+      "seconds": 200,
+      "facts": [
+        "John Denver had never actually been to West Virginia when this song was written!",
+        "He wrote it with a married couple, Bill Danoff and Taffy Nivert, who hadn’t been there either.",
+        "Today it is one of West Virginia’s official state songs."
+      ],
+      "listen": [
+        "Listen for the mountains and the river.",
+        "Listen for the radio. What does it remind him of?"
+      ],
+      "ask": [
+        "Where is the place that truly feels like ‘home’ to you?",
+        "Did you grow up in the country or in the city?",
+        "Have you ever been to the mountains?"
+      ],
+      "lyrics": "Almost Heaven, West Virginia\nBlue Ridge Mountains, Shenandoah River\nLife is old there, older than the trees\nYounger than the mountains, growin' like a breeze\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine, teardrop in my eye\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nI hear her voice in the mornin' hour, she calls me\nThe radio reminds me of my home far away\nDrivin' down the road, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-danny-boy": {
+      "type": "song",
+      "title": "Danny Boy",
+      "artist": "Traditional Irish air",
+      "year": 1913,
+      "cats": [
+        "Old Favorites",
+        "Gentle"
+      ],
+      "seconds": 220,
+      "facts": [
+        "The words were written by an English lawyer, Frederic Weatherly, and set to the old Irish tune Londonderry Air.",
+        "His sister-in-law in America mailed him the tune, and it fit his poem perfectly.",
+        "It’s sung all over the world on St. Patrick’s Day."
+      ],
+      "listen": [
+        "Listen for the pipes calling.",
+        "Listen for the seasons: summer, flowers and snow."
+      ],
+      "ask": [
+        "Does this song remind you of family or perhaps a bit of Irish luck?",
+        "Did anyone in your family sing this song?",
+        "Have you ever heard bagpipes played?"
+      ],
+      "lyrics": "Oh,\nDanny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh,\nDanny Boy, oh Danny Boy,\nI love you so!\n\nBut when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-the-end-of-the-world": {
+      "type": "song",
+      "title": "The End of the World",
+      "artist": "Skeeter Davis",
+      "year": 1962,
+      "cats": [
+        "Love Songs",
+        "Country & Western"
+      ],
+      "seconds": 150,
+      "facts": [
+        "The words were written by Sylvia Dee, thinking of the grief of losing her father.",
+        "Skeeter Davis’s record went to number 2 on both the pop and country charts.",
+        "It was a hit again in many countries for years afterward."
+      ],
+      "listen": [
+        "Listen for all the things that keep going: the sun, the sea, the birds and the stars.",
+        "Listen for the questions. Every verse starts with “Why…?”"
+      ],
+      "ask": [
+        "Have you ever had a song that perfectly matched how you were feeling?",
+        "Who do you like to talk to when you feel sad?",
+        "Do you like looking at the stars?"
+      ],
+      "lyrics": "Why does the sun go on shining?\nWhy does the sea rush to shore?\nDon't they know it's the end of the world?\n'Cause you don't love me any more\n\nWhy do the birds go on singing?\nWhy do the stars glow above?\nDon't they know it's the end of the world?\nIt ended when I lost your love\n\nI wake up in the morning and I wonder\nWhy everything's the same as it was\nI can't understand, no,\nI can't understand\nHow life goes on the way it does\n\nWhy does my heart go on beating?\nWhy do these eyes of mine cry?\nDon't they know it's the end of the world?\nIt ended when you said goodbye",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-fly-me-to-the-moon": {
+      "type": "song",
+      "title": "Fly Me To The Moon",
+      "artist": "Frank Sinatra",
+      "year": 1964,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 120,
+      "facts": [
+        "This was the first music ever played on the Moon. Buzz Aldrin played it on a portable cassette player in 1969.",
+        "It was first called “In Other Words” when it was written in 1954.",
+        "Frank Sinatra recorded it with Count Basie’s band."
+      ],
+      "listen": [
+        "Listen for the planets: which two does he name?",
+        "Listen for “In other words…” What does he really mean?"
+      ],
+      "ask": [
+        "Did you watch the moon landing in 1969? Where were you?",
+        "Would you ever want to fly to the moon?",
+        "Did you like Frank Sinatra?"
+      ],
+      "lyrics": "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-folsom-prison-blues": {
+      "type": "song",
+      "title": "Folsom Prison Blues",
+      "artist": "Johnny Cash",
+      "year": 1955,
+      "cats": [
+        "Country & Western"
+      ],
+      "seconds": 170,
+      "facts": [
+        "Johnny Cash performed this live for the inmates at Folsom Prison in 1968.",
+        "Johnny Cash never served time in prison. He only spent a few nights in jail.",
+        "He wrote it after seeing a movie about Folsom Prison while he was in the Air Force."
+      ],
+      "listen": [
+        "Listen for the train. Where is it headed?",
+        "Listen for the rich folks: what are they drinking and smoking?"
+      ],
+      "ask": [
+        "Have you ever been to a concert that felt truly legendary?",
+        "Did you ever ride on a train? Where did you go?",
+        "What did your mama always tell you?"
+      ],
+      "lyrics": "I hear the train a-comin',\nit's rolling 'round the bend\nAnd I ain't seen the sunshine since I don't know when\nI'm stuck in Folsom prison,\nand time keeps draggin' on\nBut that train keeps a-rollin' on down to San Antone\n\nWhen I was just a baby my mama told me,\n\"Son\nAlways be a good boy, don't ever play with guns\"\nBut I shot a man in Reno just to watch him die\nWhen I hear that whistle blowing,\nI hang my head and cry\n\nI bet there's rich folks eating in a fancy dining car\nThey're probably drinkin' coffee and smoking big cigars\nWell I know I had it coming,\nI know I can't be free\nBut those people keep a-movin' and that's what tortures me\n\nWell if they freed me from this prison,\nif that railroad train was mine\nI bet I'd move it on a little farther down the line\nFar from Folsom prison,\nthat's where I want to stay\nAnd I'd let that lonesome whistle blow my blues away",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-ghost-riders-in-the-sky": {
+      "type": "song",
+      "title": "Ghost Riders In The Sky",
+      "artist": "Vaughn Monroe",
+      "year": 1949,
+      "cats": [
+        "Country & Western"
+      ],
+      "seconds": 210,
+      "facts": [
+        "The songwriter, Stan Jones, heard this legend from an old cowboy when he was 12 years old.",
+        "Stan Jones later worked as a park ranger in Death Valley.",
+        "Vaughn Monroe’s version was a number one hit in 1949."
+      ],
+      "listen": [
+        "Listen for “Yippie-yi-yay!” Sing along!",
+        "Listen for the cows. What color are their eyes?"
+      ],
+      "ask": [
+        "Did you ever want to be a cowboy or cowgirl when you were little?",
+        "Have you ever ridden a horse?",
+        "Do you like a good spooky story?"
+      ],
+      "lyrics": "An old cowboy went riding out one dark and windy day\nUpon a ridge he rested as he went along his way\nWhen all at once a mighty herd of red eyed cows he saw\nPlowin' through the ragged skies and up the cloudy draw\n\nTheir brands were still on fire and their hooves were made of steel\nTheir horns were black and shiny and their hot breath he could feel\nA bolt of fear went through him as they thundered through the sky\nFor he saw the riders coming hard,\nAnd he heard their mournful cry\n\n[Chorus]\nYippie-yi-o,\nYippie-yi-yay,\nGhost riders in the sky\n\nTheir faces gaunt, their eyes were blurred,\nTheir shirts all soaked with sweat\nHe's riding hard to catch that herd but he ain't caught 'em yet\n'Cause they've got to ride forever on that range up in the sky\nOn horses snorting fire,\nAs they ride on, hear their cry\n\nAs the riders loped on by him he heard one call his name\n'If you wanna save your soul from hell a-riding on our range\nThen, cowboy,\nchange your ways today or with us you will ride\nTrying to catch the devil's herd across these endless skies\n\n[Chorus]\nYippie-yi-o,\nYippie-yi-yay,\nGhost riders in the sky",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-happy-trails": {
+      "type": "song",
+      "title": "Happy Trails",
+      "artist": "Roy Rogers & Dale Evans",
+      "year": 1952,
+      "cats": [
+        "Country & Western",
+        "Feel-Good",
+        "Movies & Shows"
+      ],
+      "seconds": 70,
+      "facts": [
+        "Written by Dale Evans, it became the famous theme song for her and Roy Rogers.",
+        "They sang it at the end of every episode of The Roy Rogers Show.",
+        "Roy’s horse was named Trigger, and Dale’s horse was named Buttermilk."
+      ],
+      "listen": [
+        "Listen for the weather: clouds and sunny weather.",
+        "Listen for how to keep smiling until we meet again."
+      ],
+      "ask": [
+        "Did you grow up watching Westerns on the weekend?",
+        "Who was your favorite TV cowboy?",
+        "What’s your favorite way to say goodbye to a friend?"
+      ],
+      "lyrics": "Happy trails to you, until we meet again\nHappy trails to you, keep smilin' until then\nWho cares about the clouds when we're together?\nJust sing a song and bring the sunny weather\n\nHappy trails to you,\n'till we meet again",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-heartbreak-hotel": {
+      "type": "song",
+      "title": "Heartbreak Hotel",
+      "artist": "Elvis Presley",
+      "year": 1956,
+      "cats": [
+        "Love Songs"
+      ],
+      "seconds": 130,
+      "facts": [
+        "This was Elvis’s first Gold Record. It was inspired by a newspaper story about a lonely man.",
+        "It was his first number one hit.",
+        "One of the songwriters, Mae Boren Axton, was a schoolteacher."
+      ],
+      "listen": [
+        "Listen for the name of the street.",
+        "Listen for who stays at this hotel."
+      ],
+      "ask": [
+        "Do you remember the first time you saw Elvis on TV? Was he too scandalous?",
+        "Did you ever stay in a fancy hotel?",
+        "Who was your favorite singer when you were a teenager?"
+      ],
+      "lyrics": "Well, since my baby left me,\nI found a new place to dwell\nDown at the end of Lonely Street at Heartbreak Hotel\n\n[Chorus]\nWhere I'll be,\nI'll be so lonely, baby,\nI’ll be so lonely,\nI could die\n\nWell, although it's always crowded,\nYou still could find some room\nFor broken-hearted lovers to cry there in their gloom\n\n[Chorus]\nWhere I'll be,\nI'll be so lonely, baby,\nI’ll be so lonely,\nI could die\n\nWell, now, if your baby leaves you,\nYou need a place to dwell\nJust take a walk down Lonely Street To Heartbreak Hotel\n\n[Chorus]\nWhere I'll be,\nI'll be so lonely, baby,\nI’ll be so lonely,\nI could die",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-here-comes-the-sun": {
+      "type": "song",
+      "title": "Here Comes the Sun",
+      "artist": "The Beatles",
+      "year": 1969,
+      "cats": [
+        "The Beatles",
+        "Feel-Good"
+      ],
+      "seconds": 160,
+      "facts": [
+        "George Harrison wrote this in Eric Clapton’s garden on a rare sunny day in London.",
+        "He was skipping a business meeting that day!",
+        "It’s now one of the most-played Beatles songs of all time."
+      ],
+      "listen": [
+        "Listen for “doo-doo-doo.” Sing it with me!",
+        "Listen for the season that’s ending."
+      ],
+      "ask": [
+        "What is your favorite way to spend a sunny afternoon?",
+        "What’s your favorite season of the year?",
+        "Did you have a garden?"
+      ],
+      "lyrics": "Here comes the sun, doo-doo-doo Here comes the sun\nAnd I say, \"It's all right\"\n\nLittle darlin’,\nIt's been a long, cold, lonely winter\nLittle darlin’,\nIt feels like years since it's been here\nHere comes the sun, doo-doo-do,\nHere comes the sun\nAnd I say, \"It's all right”\n\nLittle darlin’,\nThe smile's returning to the faces\nLittle darlin’,\nIt seems like years since it's been here\n\nHere comes the sun,\nHere comes the sun,\nAnd I say,\n\"It's all right\"\n\nSun, sun, sun, here it comes\n\nLittle darlin’,\nI feel that ice is slowly melting\nLittle darlin’,\nIt seems like years since it's been clear",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-hey-good-lookin": {
+      "type": "song",
+      "title": "Hey, Good Lookin’",
+      "artist": "Hank Williams",
+      "year": 1951,
+      "cats": [
+        "Country & Western",
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 130,
+      "facts": [
+        "Hank Williams wrote this in about 20 minutes on a plane with another musician.",
+        "It was a top-10 hit in 1951.",
+        "Hank Williams wrote most of his famous songs before he turned 30."
+      ],
+      "listen": [
+        "Listen for what kind of car he has.",
+        "Listen for how much money he’s got."
+      ],
+      "ask": [
+        "What’s cooking in the kitchen today that smells ‘good lookin’?",
+        "What was your first car?",
+        "Where did you go on a date?"
+      ],
+      "lyrics": "[Chorus]\nSay hey, good lookin' - what ya got cookin'?\nHow's about cooking somethin' up with me?\nHey, sweet baby - don't you think maybe\nWe can find us a brand new recipe?\n\nI got a hot rod Ford, and a two dollar bill\nAnd I know a spot right over the hill\nThere's soda pop and the dancing's free\nSo if you wanna have fun, come along with me\n\nI'm gonna throw my date book over the fence\nAnd buy me one for five or ten cents\nI'll keep it till it's covered with age\nCause I'm writin' your name down on every page\n\n[Chorus]\nSay hey, good lookin' - what ya got cookin'?\nHow's about cooking somethin' up with me?\nHey, sweet baby - don't you think maybe\nWe can find us a brand new recipe?",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-home-on-the-range": {
+      "type": "song",
+      "title": "Home On The Range",
+      "artist": "Traditional cowboy song",
+      "year": 1872,
+      "cats": [
+        "Country & Western",
+        "Old Favorites",
+        "Gentle"
+      ],
+      "seconds": 90,
+      "facts": [
+        "This is the official state song of Kansas. It was written by a doctor in a cabin.",
+        "Dr. Brewster Higley wrote it as a poem, and his friend Daniel Kelley wrote the tune.",
+        "President Franklin Roosevelt called it his favorite song."
+      ],
+      "listen": [
+        "Listen for the animals: buffalo, deer and antelope.",
+        "Listen for the sky. Is it cloudy?"
+      ],
+      "ask": [
+        "What’s the most beautiful landscape you’ve ever seen in person?",
+        "Have you ever seen a buffalo?",
+        "Where did you like to go outdoors?"
+      ],
+      "lyrics": "Oh give me a home where the buffalo roam,\n\n[Chorus]\nWhere the deer and the antelope play,",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-hey-jude": {
+      "type": "song",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "year": 1968,
+      "cats": [
+        "The Beatles",
+        "Feel-Good"
+      ],
+      "seconds": 280,
+      "facts": [
+        "Paul McCartney wrote this to comfort John Lennon’s son, Julian, during his parents’ divorce.",
+        "It started as “Hey Jules.”",
+        "It’s over seven minutes long and was number one for nine weeks in America."
+      ],
+      "listen": [
+        "Listen for “Na-na-na-na!” Let’s all sing it.",
+        "Listen for what to do with a sad song."
+      ],
+      "ask": [
+        "Is there a song that always makes you feel better when things are tough?",
+        "Who would you write a song for?",
+        "Do you like to sing along out loud?"
+      ],
+      "lyrics": "Hey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her into your heart,\nThen you can start to make it better\n\nHey Jude, don't be afraid,\nYou were made to go out and get her\nThe minute you let her under your skin,\nThen you begin to make it better\n\nAnd anytime you feel the pain, hey Jude, refrain\nDon't carry the world upon your shoulders\nFor, well,\nyou know that it's a fool who plays it cool\nBy making his world a little colder (Na-na-na-na-na,\nna-na-na-na)\n\nHey Jude, don't let me down,\nYou have found her,\nnow go and get her Remember to let her into your heart,\nThen you can start to make it better\n\nSo let it out and let it in, hey Jude, begin\nYou're waiting for someone to perform with\nAnd don't you know that it's just you?\nHey Jude, you'll do\nThe movement you need is on your shoulder (Na-na-na-na-na)\n\nHey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her under your skin,\nThen you begin to make it better\nBetter, better, better, better, better",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-ill-fly-away": {
+      "type": "song",
+      "title": "I’ll Fly Away",
+      "artist": "Albert E. Brumley",
+      "year": 1929,
+      "cats": [
+        "Old Favorites",
+        "Feel-Good"
+      ],
+      "seconds": 150,
+      "facts": [
+        "Albert E. Brumley wrote this while picking cotton on his father’s farm.",
+        "He went on to write more than 600 songs.",
+        "It’s one of the most recorded gospel songs ever, and was in the movie O Brother, Where Art Thou?"
+      ],
+      "listen": [
+        "Listen for the bird flying away.",
+        "Listen for “Hallelujah!” Clap along!"
+      ],
+      "ask": [
+        "This one always gets the toes tapping. Do you remember singing this in church?",
+        "What was your favorite hymn growing up?",
+        "Did you ever sing in a choir?"
+      ],
+      "lyrics": "Some bright morning when this life is over,\nI’ll fly away\nTo that home on God’s celestial shore,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nWhen the shadows of this life have gone,\nI’ll fly away\nLike a bird from prison bars has flown,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nOh how glad and happy when we meet,\nI’ll fly away\nNo more cold iron shackles on my feet,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nJust a few more weary days and then,\nI’ll fly away\nTo a land where joys will never end,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-lean-on-me": {
+      "type": "song",
+      "title": "Lean On Me",
+      "artist": "Bill Withers",
+      "year": 1972,
+      "cats": [
+        "Feel-Good"
+      ],
+      "seconds": 190,
+      "facts": [
+        "Bill Withers wrote this about the close community in his West Virginia coal mining town.",
+        "It went to number one in 1972.",
+        "He wrote it on a cheap piano he had just bought."
+      ],
+      "listen": [
+        "Listen for who you can call when you need a hand.",
+        "Listen for the word “tomorrow.”"
+      ],
+      "ask": [
+        "Who is the person you can always lean on?",
+        "Who was a good neighbor to you?",
+        "How do you like to help other people?"
+      ],
+      "lyrics": "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\nLean on me, when you're not strong,\nAnd I'll be your friend\nI'll help you carry on\n\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nPlease swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\nYou just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\nIf there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-let-it-be": {
+      "type": "song",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "year": 1970,
+      "cats": [
+        "The Beatles",
+        "Gentle"
+      ],
+      "seconds": 220,
+      "facts": [
+        "Paul McCartney had a dream about his late mother, Mary, who told him, ‘It will be alright.’",
+        "It was the last single the Beatles released before Paul announced he was leaving the band.",
+        "Paul plays the piano on the record."
+      ],
+      "listen": [
+        "Listen for “Let it be.” How many times can you count?",
+        "Listen for the light that shines on a cloudy night."
+      ],
+      "ask": [
+        "Who was the person in your life who always gave the best advice?",
+        "What words of wisdom would you share?",
+        "Did your mother have a favorite saying?"
+      ],
+      "lyrics": "When I find myself in times of trouble,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nAnd in my hour of darkness she is standing right in front of me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nAnd when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nthere is still a chance that they will see\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be, be\n\nAnd when the night is cloudy there is still a light that shines on me\nShinin' until tomorrow, let it be\nI wake up to the sound of music,\nMother Mary comes to me\nSpeaking words of wisdom, let it be",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-l-o-v-e": {
+      "type": "song",
+      "title": "L-O-V-E",
+      "artist": "Nat King Cole",
+      "year": 1965,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 90,
+      "facts": [
+        "Nat King Cole recorded versions of this song in five different languages!",
+        "It was one of the last songs he recorded.",
+        "His daughter, Natalie Cole, also became a famous singer."
+      ],
+      "listen": [
+        "Listen for the letters. Can you spell L-O-V-E with me?",
+        "Listen for what each letter stands for."
+      ],
+      "ask": [
+        "What’s the most romantic thing someone has ever done for you?",
+        "Can you spell the name of someone you love?",
+        "Do you remember Nat King Cole’s voice?"
+      ],
+      "lyrics": "L is for the way you look at me\nO is for the only one I see\nV is very, very extraordinary\nE is even more than anyone that you adore can\n\n[Chorus]\nLove is all that I can give to you\nLove is more than just a game for two\nTwo in love can make it,\ntake my heart and please don't break it\nLove was made for me and you",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-loch-lomond": {
+      "type": "song",
+      "title": "Loch Lomond",
+      "artist": "Traditional Scottish",
+      "year": 1841,
+      "cats": [
+        "Old Favorites",
+        "Gentle"
+      ],
+      "seconds": 180,
+      "facts": [
+        "This traditional Scottish song is about two soldiers. One takes the ‘high road’ and one the ‘low road.’",
+        "Loch Lomond is the biggest lake in Great Britain.",
+        "It was first printed in a songbook in 1841."
+      ],
+      "listen": [
+        "Listen for the high road and the low road.",
+        "Listen for the birds and wildflowers."
+      ],
+      "ask": [
+        "Have you ever traveled far from home? Where did you go?",
+        "Do you have family from Scotland or Ireland?",
+        "What’s the prettiest lake you’ve ever seen?"
+      ],
+      "lyrics": "By yon bonnie banks and by yon bonnie braes,\nWhere the sun shines bright on Loch Lomond,\nWhere me and my true love were ever wont to gae,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\n[Chorus]\nO ye'll tak' the high road,\nand I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\n'Twas there that we parted, in yon shady glen,\nOn the steep, steep side o' Ben Lomond,\nWhere in soft purple hue,\nthe highland hills we view,\nAnd the moon coming out in the gloaming.\n\n[Chorus]\nO ye'll tak' the high road,\nand I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\nThe wee birdies sing and the wildflowers spring,\nAnd in sunshine the waters are sleeping.\nBut the broken heart it kens nae second spring again,\nThough the waeful may cease frae their grieving.\n\n[Chorus]\nO ye'll tak' the high road,\nand I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-moon-river": {
+      "type": "song",
+      "title": "Moon River",
+      "artist": "Audrey Hepburn / Andy Williams",
+      "year": 1961,
+      "cats": [
+        "Movies & Shows",
+        "Gentle"
+      ],
+      "seconds": 150,
+      "facts": [
+        "Audrey Hepburn sang this in Breakfast at Tiffany’s, but the studio almost cut the scene!",
+        "It won the Academy Award for Best Song.",
+        "Andy Williams loved it so much he named his theater Moon River."
+      ],
+      "listen": [
+        "Listen for the river. How wide is it?",
+        "Listen for the “huckleberry friend.”"
+      ],
+      "ask": [
+        "Do you have a favorite movie star from the Golden Age of Hollywood?",
+        "Did you ever see Breakfast at Tiffany’s?",
+        "Who was a good friend you went exploring with?"
+      ],
+      "lyrics": "Moon river, wider than a mile,\nI’m crossing you in style some day\nOh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world,\nThere’s such a lot of world to see\nWe're after the same rainbow's end,\nwaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me\n\nOh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world\nThere's such a lot of world to see\nWe're after that same rainbow's end,\nwaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-my-favorite-things": {
+      "type": "song",
+      "title": "My Favorite Things",
+      "artist": "The Sound of Music",
+      "year": 1959,
+      "cats": [
+        "Movies & Shows",
+        "Feel-Good"
+      ],
+      "seconds": 120,
+      "facts": [
+        "It’s popular at Christmas, but it was written for the Broadway musical The Sound of Music.",
+        "Julie Andrews sang it in the 1965 movie.",
+        "Jazz player John Coltrane made a famous version of it."
+      ],
+      "listen": [
+        "Listen for the animals: kittens, ponies and geese.",
+        "Listen for the foods: apple strudel and schnitzel with noodles."
+      ],
+      "ask": [
+        "What are a few of your favorite things?",
+        "Did you ever see The Sound of Music?",
+        "What’s your favorite thing to eat?"
+      ],
+      "lyrics": "Raindrops on roses and whiskers on kittens\nBright copper kettles and warm woolen mittens\nBrown paper packages tied up with strings\nThese are a few of my favorite things\n\nCream-colored ponies and crisp apple strudels\nDoorbells and sleigh bells and schnitzel with noodles\nWild geese that fly with the moon on their wings\nThese are a few of my favorite things\n\nGirls in white dresses with blue satin sashes\nSnowflakes that stay on my nose and eyelashes\nSilver-white winters that melt into springs\nThese are a few of my favorite things\n\nWhen the dog bites,\nWhen the bee stings,\nWhen I'm feeling sad\nI simply remember my favorite things and then I don't feel so bad",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-my-way": {
+      "type": "song",
+      "title": "My Way",
+      "artist": "Frank Sinatra",
+      "year": 1969,
+      "cats": [
+        "Old Favorites"
+      ],
+      "seconds": 180,
+      "facts": [
+        "Paul Anka wrote the English words especially for Frank Sinatra after hearing a French pop song.",
+        "It became Sinatra’s signature song.",
+        "Elvis sang it in his concerts too."
+      ],
+      "listen": [
+        "Listen for the highways he traveled.",
+        "Listen for how many regrets he’s had."
+      ],
+      "ask": [
+        "If you could describe your life in just one word, what would it be?",
+        "What’s something you’re proud of doing your way?",
+        "What job did you love?"
+      ],
+      "lyrics": "And now, the end is near,\nAnd so I face the final curtain\nMy friend,\nI'll say it clear,\nI’ll state my case, of which I'm certain\n\nI've lived a life that's full,\nI traveled each and every highway\nAnd more, much more than this,\nI did it my way\n\nRegrets,\nI've had a few,\nBut then again, too few to mention\nI did what I had to do,\nAnd saw it through without exemption\n\nI planned each charted course,\nEach careful step along the byway\nAnd more, much more than this,\nI did it my way\n\nYes, there were times,\nI'm sure you knew\nWhen I bit off more than I could chew\nBut through it all, when there was doubt,\nI ate it up and spit it out\nI faced it all, and I stood tall,\nAnd did it my way",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-on-the-road-again": {
+      "type": "song",
+      "title": "On The Road Again",
+      "artist": "Willie Nelson",
+      "year": 1980,
+      "cats": [
+        "Country & Western",
+        "Feel-Good"
+      ],
+      "seconds": 130,
+      "facts": [
+        "Willie Nelson famously wrote the words for this on an airplane barf bag!",
+        "He wrote it for the movie Honeysuckle Rose.",
+        "It won a Grammy for Best Country Song."
+      ],
+      "listen": [
+        "Listen for who he makes music with.",
+        "Listen for the band of gypsies."
+      ],
+      "ask": [
+        "What was your favorite road trip or vacation?",
+        "Who did you travel with?",
+        "Have you ever seen Willie Nelson?"
+      ],
+      "lyrics": "On the road again,\nI just can't wait to get on the road again\nThe life I love is making music with my friends\nAnd I can't wait to get on the road again\n\nOn the road again,\nGoin’ places that I've never been\nSeein' things that I may never see again\nAnd I can't wait to get on the road again\n\nOn the road again,\nLike a band o' gypsies, we go down the highway\nWe're the best of friends,\nInsisting that the world keep turning our way\nAnd our way is on the road again",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-perhaps-perhaps-perhaps": {
+      "type": "song",
+      "title": "Perhaps, Perhaps, Perhaps",
+      "artist": "Doris Day",
+      "year": 1964,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 110,
+      "facts": [
+        "This is the English version of a famous 1947 Cuban song called ‘Quizás, Quizás, Quizás.’",
+        "Nat King Cole sang it in Spanish.",
+        "Doris Day’s version is the one many people remember."
+      ],
+      "listen": [
+        "Listen for “Perhaps.” Say it with me!",
+        "Listen for how many times he has asked."
+      ],
+      "ask": [
+        "Is there something you’re still waiting for an answer on? Perhaps?",
+        "How did you know you were in love?",
+        "Do you like Latin music for dancing?"
+      ],
+      "lyrics": "You won't admit you love me,\nAnd so, how am I ever, to know?\nYou always tell me \"Perhaps, perhaps, perhaps\"\n\nA million times I've asked you, and then,\nI ask you over, again\nYou only answer \"Perhaps, perhaps, perhaps\"\n\nIf you can't make your mind up,\nWe’ll never, get started\nAnd I don't wanna wind up,\nBeing parted, brokenhearted\n\nSo if you really love me, say yes,\nBut if you don't dear, confess\nAnd please don't tell me \"Perhaps,\nperhaps, perhaps\"",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-raindrops-keep-falling-on-my-head": {
+      "type": "song",
+      "title": "Raindrops Keep Falling On My Head",
+      "artist": "B.J. Thomas",
+      "year": 1969,
+      "cats": [
+        "Movies & Shows",
+        "Feel-Good"
+      ],
+      "seconds": 150,
+      "facts": [
+        "B.J. Thomas had laryngitis when he recorded the version used in the movie.",
+        "It plays in Butch Cassidy and the Sundance Kid while Paul Newman rides a bicycle.",
+        "It won the Academy Award for Best Song."
+      ],
+      "listen": [
+        "Listen for who is sleeping on the job.",
+        "Listen for the man whose feet are too big for his bed."
+      ],
+      "ask": [
+        "Do you like the sound of rain, or do you prefer the sunshine?",
+        "Did you ever ride a bicycle?",
+        "What do you do on a rainy day?"
+      ],
+      "lyrics": "Raindrops keep falling on my head\nAnd just like the guy whose feet are too big for his bed,\nnothing seems to fit\nThose raindrops are falling on my head,\nthey keep falling\n\nSo I just did me some talking to the sun\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the job\nThose raindrops are falling on my head,\nthey keep fallin'\n\nBut there's one thing I know,\nThe blues they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\nRaindrops keep falling on my head\nBut that doesn't mean my eyes will soon be turning red\nCrying's not for me 'cause,\nI'm never gonna stop the rain by complaining\n\nBecause I'm free,\nNothing’s worrying me",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-return-to-sender": {
+      "type": "song",
+      "title": "Return to Sender",
+      "artist": "Elvis Presley",
+      "year": 1962,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 120,
+      "facts": [
+        "It was in the movie Girls! Girls! Girls!, where Elvis plays a fishing guide in Hawaii.",
+        "The words “no such zone” come from before ZIP codes, when cities had postal zone numbers.",
+        "It went to number 2 on the charts."
+      ],
+      "listen": [
+        "Listen for the postman. What does he do with the letter?",
+        "Listen for “address unknown!”"
+      ],
+      "ask": [
+        "Have you ever written a letter that got ‘Returned to Sender’?",
+        "Did you write love letters?",
+        "Who did you write letters to?"
+      ],
+      "lyrics": "Return to sender, Return to sender\nI gave a letter to the postman,\nHe put it in his sack\nBright and early next morning,\nHe brought my letter back (He wrote upon it)\n\nReturn to sender, address unknown,\nNo such number, no such zone\nWe had a quarrel, a lover's spat\nI write I'm sorry, but my letter keeps coming back\n\nSo then I dropped it in the mailbox,\nAnd sent it special D\nBright and early next morning,\nIt came right back to me\n\nReturn to sender, address unknown,\nNo such person, no such zone\n\nThis time I'm gonna take it myself and put it right in her hand\nAnd if it comes back the very next day then I'll understand (the writing on it)",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-ring-of-fire": {
+      "type": "song",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "year": 1963,
+      "cats": [
+        "Country & Western",
+        "Love Songs"
+      ],
+      "seconds": 130,
+      "facts": [
+        "It was actually written by June Carter about falling in love with Johnny.",
+        "The trumpets came to Johnny in a dream.",
+        "It was number one on the country charts for seven weeks."
+      ],
+      "listen": [
+        "Listen for “down, down, down.” Let’s sing it!",
+        "Listen for the flames going higher."
+      ],
+      "ask": [
+        "They say love is a ‘burning thing.’ Do you agree?",
+        "Do you like Johnny Cash or June Carter better?",
+        "What’s the best love story you know?"
+      ],
+      "lyrics": "Love is a burning thing,\nAnd it makes a fiery ring\nBound by wild desire,\nI fell into a ring of fire\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down and the flames went higher\nAnd it burns, burns, burns,\nthe ring of fire, the ring of fire\n\nThe taste of love is sweet,\nWhen hearts like ours meet\n\nI fell for you like a child,\nOh, but the fire went wild\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down and the flames went higher\nAnd it burns, burns, burns,\nthe ring of fire, the ring of fire",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-sittin-on-the-dock-of-the-bay": {
+      "type": "song",
+      "title": "(Sittin’ On) The Dock of the Bay",
+      "artist": "Otis Redding",
+      "year": 1968,
+      "cats": [
+        "Gentle"
+      ],
+      "seconds": 150,
+      "facts": [
+        "Otis Redding recorded this just days before he died in a plane crash.",
+        "The whistling at the end was a placeholder for words he planned to add later.",
+        "It became his first number one hit."
+      ],
+      "listen": [
+        "Listen for the ships rolling in and rolling away.",
+        "Listen for where he left his home."
+      ],
+      "ask": [
+        "Do you prefer the peace of the water or the bustle of the city?",
+        "Did you ever go fishing off a dock?",
+        "Can anyone here whistle?"
+      ],
+      "lyrics": "Sittin' in the mornin' sun,\nI’ll be sittin' when the evenin' come\nWatching the ships roll in,\nAnd then I watch 'em roll away again, yeah\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay Wastin' time\n\nI left my home in Georgia,\nHeaded for the 'Frisco bay\nI've had nothing to live for,\nLook like nothin's gonna come my way\n\nLook like nothing's gonna change,\nEverything still remains the same\nI can't do what ten people tell me to do,\nSo I guess I'll remain the same\n\nSittin' here resting my bones,\nAnd this loneliness won't leave me alone\nIt's two thousand miles I roamed,\nJust to make this dock my home",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-over-the-rainbow": {
+      "type": "song",
+      "title": "Over the Rainbow",
+      "artist": "Judy Garland",
+      "year": 1939,
+      "cats": [
+        "Movies & Shows",
+        "Gentle"
+      ],
+      "seconds": 150,
+      "facts": [
+        "Judy Garland was only 16 years old when she recorded this for The Wizard of Oz.",
+        "The studio almost cut it from the movie!",
+        "It won the Academy Award and was voted the number one song of the 20th century."
+      ],
+      "listen": [
+        "Listen for the bluebirds.",
+        "Listen for the lemon drops."
+      ],
+      "ask": [
+        "If you could follow a yellow brick road anywhere, where would it lead?",
+        "Did you see The Wizard of Oz at the movies?",
+        "What would you wish for on a star?"
+      ],
+      "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream really do come true\n\nSomeday I'll wish upon a star and wake up where the clouds are far behind me\nWhere troubles melt like lemon drops away above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-happy-together": {
+      "type": "song",
+      "title": "Happy Together",
+      "artist": "The Turtles",
+      "year": 1967,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 140,
+      "facts": [
+        "Several other bands turned this song down before The Turtles recorded it.",
+        "It knocked the Beatles’ Penny Lane out of the number one spot.",
+        "It has been used in lots of movies and TV commercials."
+      ],
+      "listen": [
+        "Listen for how much a phone call cost: just a dime!",
+        "Listen for “Me and you, and you and me.”"
+      ],
+      "ask": [
+        "Who is someone that always makes you feel ‘happy together’?",
+        "Do you remember phone calls for a dime?",
+        "Who did you call on the phone the most?"
+      ],
+      "lyrics": "Imagine me and you,\nI do,\nI think about you day and night,\nIt’s only right\nTo think about the girl you love and hold her tight,\nSo happy together\n\nIf I should call you up, invest a dime\nAnd you say you belong to me,\nAnd ease my mind\nImagine how the world could be,\nSo very fine,\nSo happy together\n\nI can't see me lovin' nobody but you for all my life\nWhen you're with me, baby,\nthe skies will be blue for all my life\n\nMe and you, and you and me\nNo matter how they tossed the dice it had to be\nThe only one for me is you,\nAnd you for me,\nSo happy together",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-the-sound-of-silence": {
+      "type": "song",
+      "title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "year": 1965,
+      "cats": [
+        "Gentle"
+      ],
+      "seconds": 210,
+      "facts": [
+        "Simon & Garfunkel had actually broken up before this song became a number one hit!",
+        "Their producer added drums and electric guitar without telling them.",
+        "Paul Simon wrote it when he was about 21."
+      ],
+      "listen": [
+        "Listen for the streetlamp and the neon light.",
+        "Listen for how many people he saw."
+      ],
+      "ask": [
+        "Do you enjoy the quiet, or do you prefer to have the radio on?",
+        "Where is your favorite quiet place?",
+        "Did you like Simon & Garfunkel?"
+      ],
+      "lyrics": "Hello, darkness, my old friend,\nI’ve come to talk with you again\nBecause a vision softly creeping,\nLeft its seeds while I was sleeping\nAnd the vision that was planted in my brain still remains\nWithin the sound of silence\n\nIn restless dreams I walked alone,\nNarrow streets of cobblestone\n'Neath the halo of a streetlamp,\nI turned my collar to the cold and damp\nWhen my eyes were stabbed by the flash of a neon light that split the night\nAnd touched the sound of silence\n\nAnd in the naked light I saw,\nTen thousand people, maybe more\nPeople talking without speaking,\nPeople hearing without listening\nPeople writing songs that voices never share,\nNo one dared\nDisturb the sound of silence\n\n\"Fools,\" said I,\n\"You do not know,\nSilence like a cancer grows\nHear my words that I might teach you,\ntake my arms that I might reach you.\"\nBut my words like silent raindrops fell,\nand echoed in the wells of silence\n\nAnd the people bowed and prayed,\nTo the neon god they made\nAnd the sign flashed out its warning,\nIn the words that it was forming\nAnd the sign said,\n\"The words of the prophets are written on the subway walls\nAnd tenement halls,\nAnd whispered in the sounds of silence.\"",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-stand-by-me": {
+      "type": "song",
+      "title": "Stand By Me",
+      "artist": "Ben E. King",
+      "year": 1961,
+      "cats": [
+        "Love Songs",
+        "Feel-Good"
+      ],
+      "seconds": 140,
+      "facts": [
+        "Based on an old spiritual, this hit has been recorded by other artists over 400 times.",
+        "It was a hit all over again in 1986, when it was the title song of the movie Stand By Me.",
+        "Ben E. King had earlier sung with The Drifters."
+      ],
+      "listen": [
+        "Listen for the moon. It’s the only light.",
+        "Listen for what happens to the mountain."
+      ],
+      "ask": [
+        "Who has stood by you through thick and thin?",
+        "Who was your best friend growing up?",
+        "What helps you feel brave?"
+      ],
+      "lyrics": "When the night has come,\nAnd the land is dark\nAnd the moon is the only light we'll see\nNo,\nI won't be afraid,\nOh,\nI won't be afraid\nJust as long as you stand, Stand by me\n\nSo darlin', darlin’ Stand by me\n\nIf the sky that we look upon,\nShould tumble and fall\nOr the mountain should crumble to the sea\nI won't cry,\nI won't cry,\nNo,\nI won't shed a tear\nJust as long as you stand, Stand by me",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-thats-amore": {
+      "type": "song",
+      "title": "That’s Amore",
+      "artist": "Dean Martin",
+      "year": 1953,
+      "cats": [
+        "Love Songs",
+        "Feel-Good",
+        "Movies & Shows"
+      ],
+      "seconds": 120,
+      "facts": [
+        "This was one of Dean Martin’s biggest hits. ‘Amore’ means love in Italian.",
+        "He first sang it in a movie called The Caddy, with Jerry Lewis.",
+        "It was nominated for an Academy Award."
+      ],
+      "listen": [
+        "Listen for the food: pizza pie and pasta!",
+        "Listen for the bells: “ting-a-ling-a-ling.”"
+      ],
+      "ask": [
+        "What is your favorite Italian dish? Does it taste like Amore?",
+        "Did you like Dean Martin and Jerry Lewis?",
+        "Who made the best home cooking in your family?"
+      ],
+      "lyrics": "When the moon hits your eye\nLike a big pizza pie, that's amore\nWhen the world seems to shine\nLike you've had too much wine, that's amore\n\nBells will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing,\n\"Vita bella\"\nHearts will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the stars make you drool\nJust like a pasta e fasule, that's amore\nWhen you dance down the street\nWith a cloud at your feet, you're in love\n\nWhen you walk in a dream\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-what-a-wonderful-world": {
+      "type": "song",
+      "title": "What a Wonderful World",
+      "artist": "Louis Armstrong",
+      "year": 1967,
+      "cats": [
+        "Feel-Good",
+        "Gentle"
+      ],
+      "seconds": 140,
+      "facts": [
+        "When it first came out in America, it wasn’t a hit! It became world-famous years later.",
+        "It went to number one in England in 1968.",
+        "Louis Armstrong was 66 years old when he recorded it."
+      ],
+      "listen": [
+        "Listen for the colors: green, red, blue and white.",
+        "Listen for what people are really saying when they shake hands."
+      ],
+      "ask": [
+        "What is one ‘wonderful’ thing you’ve seen or done today?",
+        "What’s your favorite color?",
+        "Do you remember Louis Armstrong’s trumpet?"
+      ],
+      "lyrics": "I see trees of green, red roses too\nI see them bloom for me and for you\nAnd I think to myself,\nWhat a wonderful world\n\nI see skies of blue and clouds of white\nThe bright blessed days, dark sacred nights\nAnd I think to myself,\nWhat a wonderful world\n\nThe colors of the rainbow, so pretty in the sky\nAre also on the faces of people going by\nI see friends shaking hands, saying,\n\"How do you do?\"\nThey’re really sayin', \"I love you\"\n\nI hear babies cry, I watch them grow\nThey’ll learn much more than I'll ever know\nAnd I think to myself,\nWhat a wonderful world\nYes,\nI think to myself,\nWhat a wonderful world",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "song-yesterday": {
+      "type": "song",
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "year": 1965,
+      "cats": [
+        "The Beatles",
+        "Gentle"
+      ],
+      "seconds": 120,
+      "facts": [
+        "The working title was ‘Scrambled Eggs’ because the words weren’t finished!",
+        "Paul McCartney dreamed the melody and woke up humming it.",
+        "It’s one of the most recorded songs in history."
+      ],
+      "listen": [
+        "Listen for the shadow.",
+        "Listen for the word “yesterday.” How many times?"
+      ],
+      "ask": [
+        "If you could go back to ‘Yesterday’ for just one hour, where would you go?",
+        "What did you eat for breakfast when you were young?",
+        "What’s a happy memory from long ago?"
+      ],
+      "lyrics": "Yesterday,\nAll my troubles seemed so far away\nNow it looks as though they're here to stay\nOh, I believe in yesterday\n\nSuddenly,\nI’m not half the man I used to be\nThere's a shadow hangin' over me\nOh, yesterday came suddenly\n\nWhy she had to go,\nI don't know, she wouldn't say\nI said something wrong, now I long for yesterday\n\nYesterday,\nLove was such an easy game to play\nNow I need a place to hide away\nOh, I believe in yesterday",
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    },
+    "settings": {
+      "type": "settings",
+      "categories": [
+        "Love Songs",
+        "Feel-Good",
+        "Gentle",
+        "Country & Western",
+        "The Beatles",
+        "Movies & Shows",
+        "Old Favorites"
+      ],
+      "updatedAt": "2026-10-15T19:50:59.402382+00:00"
+    }
+  }
+}
