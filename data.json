@@ -1129,6 +1129,89 @@
       "type": "song",
       "lyrics": "Para bailar La Bamba\nPara bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia\nPara mí, para ti\nY arriba, y arriba\nY arriba, y arriba\nPor ti seré, por ti seré, por ti seré\n\nYo no soy marinero\nYo no soy marinero, soy capitán\nSoy capitán, soy capitán\nBamba, bamba\nBamba, bamba\nBamba, bamba, bam",
       "updatedAt": "2026-10-17T18:50:08.465036+00:00"
+    },
+    "song-hound-dog": {
+      "title": "Hound Dog",
+      "artist": "Elvis Presley",
+      "year": 1956,
+      "seconds": 110,
+      "cats": [
+        "Elvis",
+        "Feel-Good",
+        "Sing-Along Favorites"
+      ],
+      "facts": [
+        "Big Mama Thornton recorded it first, in 1953, three years before Elvis.",
+        "It was written by two 19-year-olds, Jerry Leiber and Mike Stoller.",
+        "Elvis once sang it on TV to a real basset hound wearing a little top hat."
+      ],
+      "listen": [
+        "Listen for the rabbit. Did the hound dog ever catch one?",
+        "Listen for “cryin’ all the time.”"
+      ],
+      "ask": [
+        "Did you ever have a dog? What was its name?",
+        "Do you remember seeing Elvis on TV?",
+        "What dances did you do to rock and roll?"
+      ],
+      "type": "song",
+      "lyrics": "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
+      "updatedAt": "2026-10-17T18:51:01.239401+00:00"
+    },
+    "song-edelweiss": {
+      "title": "Edelweiss",
+      "artist": "The Sound of Music",
+      "year": 1959,
+      "seconds": 110,
+      "cats": [
+        "Movies & Shows",
+        "Gentle",
+        "Old Favorites"
+      ],
+      "facts": [
+        "It was the last song Rodgers and Hammerstein wrote together.",
+        "Many people think it’s an old Austrian folk song, but it was written for the musical.",
+        "Edelweiss is a real small white flower that grows high in the Alps."
+      ],
+      "listen": [
+        "Listen for the colors: small and white, clean and bright.",
+        "Listen for the word “forever.”"
+      ],
+      "ask": [
+        "Did you have a favorite flower, or a garden?",
+        "Where did your family come from?",
+        "Did you see The Sound of Music?"
+      ],
+      "type": "song",
+      "lyrics": "Edelweiss, Edelweiss\nEvery morning you greet me\nSmall and white, clean and bright\nYou look happy to meet me\nBlossom of snow, may you bloom and grow\nBloom and grow forever\nEdelweiss, Edelweiss\nBless my homeland forever\n\nEdelweiss, Edelweiss\nEvery morning you greet me\nSmall and white, clean and bright\nYou look happy to meet me\nBlossom of snow, may you bloom and grow\nBloom and grow forever\nEdelweiss, Edelweiss\nBless my homeland forever",
+      "updatedAt": "2026-10-17T18:51:01.239401+00:00"
+    },
+    "song-in-the-still-of-the-night": {
+      "title": "In the Still of the Night",
+      "artist": "The Five Satins",
+      "year": 1956,
+      "seconds": 130,
+      "cats": [
+        "Love Songs",
+        "Gentle"
+      ],
+      "facts": [
+        "Fred Parris wrote it while on night guard duty in the Army.",
+        "It was recorded in the basement of a church in New Haven, Connecticut.",
+        "It’s one of the best-loved doo-wop love songs of all time."
+      ],
+      "listen": [
+        "Listen for the month. When did this happen?",
+        "Listen for the stars."
+      ],
+      "ask": [
+        "Do you remember a special night, or a special date?",
+        "Did you ever slow dance to a song like this?",
+        "What do you like to see in the night sky?"
+      ],
+      "type": "song",
+      "lyrics": "In the still of the night\nI held you\nHeld you tight\n\n'Cause I love\nLove you so\nPromise I'll never\nLet you go\nIn the still of the night\n\nI remember\nThat night in May\nThe stars were bright above\n\nI'll hope and I'll pray\nTo keep Your precious love\n\nWell before the light\nHold me again\nWith all of your might\nIn the still of the night\n\nSo before the light\nHold me again\nWith all of your might\nIn the still of the night\nIn the still of the night",
+      "updatedAt": "2026-10-17T18:51:17.525169+00:00"
     }
   }
 }
