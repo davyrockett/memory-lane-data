@@ -225,8 +225,12 @@
         "Did anyone in your family sing this song?",
         "Have you ever heard bagpipes played?"
       ],
-      "lyrics": "Oh, Danny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh, Danny Boy, oh Danny Boy,\nI love you so!\n\nBut when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!",
-      "updatedAt": "2026-10-15T23:39:27.485948+00:00"
+      "lyrics": "Oh, Danny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh, Danny Boy, oh Danny Boy,\nI love you so!\n\nBut when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\n\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!",
+      "updatedAt": "2026-10-21T19:33:32.905Z",
+      "slides": [
+        "Oh, Danny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh, Danny Boy, oh Danny Boy,\nI love you so!",
+        "But when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\n\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!"
+      ]
     },
     "song-the-end-of-the-world": {
       "type": "song",
