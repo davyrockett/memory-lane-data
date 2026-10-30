@@ -3259,7 +3259,7 @@
         "Who was a good friend you went exploring with?"
       ],
       "lyrics": "Moon river, wider than a mile,\nI’m crossing you in style some day\nOh, dream maker, you heart breaker\nWherever you're going, I'm going your way\n\nTwo drifters, off to see the world,\nThere’s such a lot of world to see\nWe're after the same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me\n\nOh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world\nThere's such a lot of world to see\nWe're after that same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me",
-      "updatedAt": "2026-10-30T20:31:45.000Z",
+      "updatedAt": "2026-10-30T22:08:15.971Z",
       "slides": [
         "Moon river, wider than a mile,\nI’m crossing you in style some day\nOh, dream maker, you heart breaker\nWherever you're going, I'm going your way\n\nTwo drifters, off to see the world,\nThere’s such a lot of world to see\nWe're after the same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me",
         "Oh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world\nThere's such a lot of world to see\nWe're after that same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me"
@@ -3295,15 +3295,15 @@
             "b": 0.88
           },
           {
-            "a": 1.0,
+            "a": 1,
             "b": 1.99
           },
           {
-            "a": 0.455,
-            "b": 0.88
+            "a": 0,
+            "b": 0.9821
           },
           {
-            "a": 1.0,
+            "a": 1,
             "b": 1.99
           }
         ]
