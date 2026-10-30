@@ -982,7 +982,88 @@
         "What would you wish for on a star?"
       ],
       "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream\nReally do come true\n\nSomeday I'll wish upon a star\nAnd wake up where the clouds are far behind me\nWhere troubles melt like lemon drops\nAway above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
-      "updatedAt": "2026-10-17T18:49:33.060471+00:00"
+      "updatedAt": "2026-10-30T16:38:15.191970Z",
+      "capo": "4",
+      "chart": {
+        "pages": [
+          {
+            "src": "charts/song-over-the-rainbow-mvv74sra-1.png",
+            "w": 1600,
+            "h": 2265,
+            "rows": [
+              [
+                0.0329,
+                0.0635
+              ],
+              [
+                0.0729,
+                0.0847
+              ],
+              [
+                0.1035,
+                0.1929
+              ],
+              [
+                0.2047,
+                0.2471
+              ],
+              [
+                0.2588,
+                0.3271
+              ],
+              [
+                0.3482,
+                0.36
+              ],
+              [
+                0.3694,
+                0.4235
+              ],
+              [
+                0.4612,
+                0.5388
+              ],
+              [
+                0.5741,
+                0.6471
+              ],
+              [
+                0.6871,
+                0.6988
+              ],
+              [
+                0.7129,
+                0.7647
+              ]
+            ]
+          }
+        ],
+        "marks": [
+          {
+            "a": 0.1035,
+            "b": 0.3271,
+            "note": "1st ending"
+          },
+          {
+            "a": 0.1035,
+            "b": 0.3271,
+            "note": "2nd ending"
+          },
+          {
+            "a": 0.3482,
+            "b": 0.5388
+          },
+          {
+            "a": 0.5741,
+            "b": 0.7647
+          },
+          {
+            "a": 0.6871,
+            "b": 0.7647,
+            "note": "Tag: like the last line"
+          }
+        ]
+      }
     },
     "song-happy-together": {
       "type": "song",
