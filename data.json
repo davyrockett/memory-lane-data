@@ -965,7 +965,7 @@
         "Have you ever been to the mountains?"
       ],
       "lyrics": "Almost Heaven, West Virginia\nBlue Ridge Mountains, Shenandoah River\nLife is old there, older than the trees\nYounger than the mountains, growin' like a breeze\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine, teardrop in my eye\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nI hear her voice in the mornin' hour, she calls me\nThe radio reminds me of my home far away\nDrivin' down the road, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "chart": {
         "pages": [
           {
@@ -1146,7 +1146,13 @@
           }
         ]
       },
-      "capo": "5"
+      "capo": "5",
+      "slides": [
+        "Almost Heaven, West Virginia\nBlue Ridge Mountains, Shenandoah River\nLife is old there, older than the trees\nYounger than the mountains, growin' like a breeze\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads",
+        "All my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine, teardrop in my eye\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads",
+        "I hear her voice in the mornin' hour, she calls me\nThe radio reminds me of my home far away\nDrivin' down the road, I get a feelin'\nThat I should've been home yesterday, yesterday",
+        "[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads"
+      ]
     },
     "song-danny-boy": {
       "type": "song",
@@ -1964,12 +1970,14 @@
         "Did you have a garden?"
       ],
       "lyrics": "Here comes the sun, doo-doo-doo\nHere comes the sun\nAnd I say, \"It's all right\"\n\nLittle darlin’,\nIt's been a long, cold, lonely winter\nLittle darlin’,\nIt feels like years since it's been here\n\nHere comes the sun, doo-doo-do,\nHere comes the sun\nAnd I say, \"It's all right”\n\nLittle darlin’,\nThe smile's returning to the faces\nLittle darlin’,\nIt seems like years since it's been here\n\nHere comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"\n\nSun, sun, sun, here it comes\n\nLittle darlin’,\nI feel that ice is slowly melting\nLittle darlin’,\nIt seems like years since it's been clear\n\nHere comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "slides": [
         "Here comes the sun, doo-doo-doo\nHere comes the sun\nAnd I say, \"It's all right\"\n\nLittle darlin’,\nIt's been a long, cold, lonely winter\nLittle darlin’,\nIt feels like years since it's been here",
         "Here comes the sun, doo-doo-do,\nHere comes the sun\nAnd I say, \"It's all right”\n\nLittle darlin’,\nThe smile's returning to the faces\nLittle darlin’,\nIt seems like years since it's been here",
-        "Here comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"\n\nSun, sun, sun, here it comes",
-        "Little darlin’,\nI feel that ice is slowly melting\nLittle darlin’,\nIt seems like years since it's been clear\n\nHere comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\""
+        "Here comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"",
+        "Sun, sun, sun, here it comes",
+        "Little darlin’,\nI feel that ice is slowly melting\nLittle darlin’,\nIt seems like years since it's been clear",
+        "Here comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\""
       ],
       "chart": {
         "pages": [
@@ -2600,7 +2608,7 @@
         "Did you ever sing in a choir?"
       ],
       "lyrics": "Some bright morning when this life is over,\nI’ll fly away\nTo that home on God’s celestial shore,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nWhen the shadows of this life have gone,\nI’ll fly away\nLike a bird from prison bars has flown,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nOh how glad and happy when we meet,\nI’ll fly away\nNo more cold iron shackles on my feet,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nJust a few more weary days and then,\nI’ll fly away\nTo a land where joys will never end,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "chart": {
         "pages": [
           {
@@ -2727,7 +2735,14 @@
             "b": 0.3367
           }
         ]
-      }
+      },
+      "slides": [
+        "Some bright morning when this life is over,\nI’ll fly away\nTo that home on God’s celestial shore,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
+        "When the shadows of this life have gone,\nI’ll fly away\nLike a bird from prison bars has flown,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
+        "Oh how glad and happy when we meet,\nI’ll fly away\nNo more cold iron shackles on my feet,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
+        "Just a few more weary days and then,\nI’ll fly away\nTo a land where joys will never end,\nI’ll fly away",
+        "[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away"
+      ]
     },
     "song-lean-on-me": {
       "type": "song",
@@ -3000,12 +3015,15 @@
         "Did your mother have a favorite saying?"
       ],
       "lyrics": "When I find myself in times of trouble,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nAnd in my hour of darkness she is standing right in front of me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nAnd when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nThere is still a chance that they will see\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be, be\n\nAnd when the night is cloudy,\nthere is still a light that shines on me\nShinin' until tomorrow, let it be\nI wake up to the sound of music,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "slides": [
         "When I find myself in times of trouble,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nAnd in my hour of darkness she is standing right in front of me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be",
-        "And when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nThere is still a chance that they will see\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be",
-        "Let it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be, be",
-        "And when the night is cloudy,\nthere is still a light that shines on me\nShinin' until tomorrow, let it be\nI wake up to the sound of music,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be"
+        "And when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nThere is still a chance that they will see\nThere will be an answer, let it be",
+        "Let it be, let it be, let it be, let it be\nThere will be an answer, let it be",
+        "Let it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be",
+        "Let it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be, be",
+        "And when the night is cloudy,\nthere is still a light that shines on me\nShinin' until tomorrow, let it be\nI wake up to the sound of music,\nMother Mary comes to me\nSpeaking words of wisdom, let it be",
+        "Let it be, let it be, let it be, let it be\nThere will be an answer, let it be"
       ],
       "chart": {
         "pages": [
@@ -3633,7 +3651,7 @@
         "What’s your favorite thing to eat?"
       ],
       "lyrics": "Raindrops on roses and whiskers on kittens\nBright copper kettles and warm woolen mittens\nBrown paper packages tied up with strings\nThese are a few of my favorite things\n\nCream-colored ponies and crisp apple strudels\nDoorbells and sleigh bells and schnitzel with noodles\nWild geese that fly with the moon on their wings\nThese are a few of my favorite things\n\nGirls in white dresses with blue satin sashes\nSnowflakes that stay on my nose and eyelashes\nSilver-white winters that melt into springs\nThese are a few of my favorite things\n\nWhen the dog bites,\nWhen the bee stings,\nWhen I'm feeling sad\nI simply remember my favorite things and then I don't feel so bad",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "chart": {
         "pages": [
           {
@@ -3810,7 +3828,12 @@
           }
         ]
       },
-      "capo": "3"
+      "capo": "3",
+      "slides": [
+        "Raindrops on roses and whiskers on kittens\nBright copper kettles and warm woolen mittens\nBrown paper packages tied up with strings\nThese are a few of my favorite things\n\nCream-colored ponies and crisp apple strudels\nDoorbells and sleigh bells and schnitzel with noodles\nWild geese that fly with the moon on their wings\nThese are a few of my favorite things",
+        "Girls in white dresses with blue satin sashes\nSnowflakes that stay on my nose and eyelashes\nSilver-white winters that melt into springs\nThese are a few of my favorite things",
+        "When the dog bites,\nWhen the bee stings,\nWhen I'm feeling sad\nI simply remember my favorite things and then I don't feel so bad"
+      ]
     },
     "song-my-way": {
       "type": "song",
@@ -6084,9 +6107,10 @@
       ],
       "type": "song",
       "lyrics": "Para bailar La Bamba, Para bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia, Para mí, para ti, Y arriba, y arriba\nY arriba, y arriba, Por ti seré, por ti seré, por ti seré\n\nBamba, bamba\n\nYo no soy marinero, Yo no soy marinero, soy capitán\nSoy capitán, soy capitán\n\nBamba, bamba",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:51:48.000Z",
       "slides": [
-        "Para bailar La Bamba, Para bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia, Para mí, para ti, Y arriba, y arriba\nY arriba, y arriba, Por ti seré, por ti seré, por ti seré\n\nBamba, bamba\n\nYo no soy marinero, Yo no soy marinero, soy capitán\nSoy capitán, soy capitán\n\nBamba, bamba"
+        "Para bailar La Bamba, Para bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia, Para mí, para ti, Y arriba, y arriba\nY arriba, y arriba, Por ti seré, por ti seré, por ti seré",
+        "Bamba, bamba\n\nYo no soy marinero, Yo no soy marinero, soy capitán\nSoy capitán, soy capitán\n\nBamba, bamba"
       ],
       "chart": {
         "pages": [
