@@ -2428,7 +2428,7 @@
         "Do you like to sing along out loud?"
       ],
       "lyrics": "Hey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her into your heart,\nThen you can start to make it better\n\nHey Jude, don't be afraid,\nYou were made to go out and get her\nThe minute you let her under your skin,\nThen you begin to make it better\n\nAnd anytime you feel the pain, hey Jude, refrain\nDon't carry the world upon your shoulders\nFor, well, you know that it's a fool who plays it cool\nBy making his world a little colder (Na-na-na-na-na, na-na-na-na)\n\nHey Jude, don't let me down,\nYou have found her, now go and get her\nRemember to let her into your heart,\nThen you can start to make it better\n\nSo let it out and let it in, hey Jude, begin\nYou're waiting for someone to perform with\nAnd don't you know that it's just you?\nHey Jude, you'll do\nThe movement you need is on your shoulder (Na-na-na-na-na)\n\nHey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her under your skin,\nThen you begin to make it better\nBetter, better, better, better, better",
-      "updatedAt": "2026-10-30T23:20:43.000Z",
+      "updatedAt": "2026-10-30T23:47:57.000Z",
       "chart": {
         "pages": [
           {
@@ -2561,10 +2561,18 @@
           },
           {
             "a": 1.3867,
-            "b": 1.8112
+            "b": 1.9235
           }
         ]
-      }
+      },
+      "slides": [
+        "Hey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her into your heart,\nThen you can start to make it better",
+        "Hey Jude, don't be afraid,\nYou were made to go out and get her\nThe minute you let her under your skin,\nThen you begin to make it better",
+        "And anytime you feel the pain, hey Jude, refrain\nDon't carry the world upon your shoulders\nFor, well, you know that it's a fool who plays it cool\nBy making his world a little colder (Na-na-na-na-na, na-na-na-na)",
+        "Hey Jude, don't let me down,\nYou have found her, now go and get her\nRemember to let her into your heart,\nThen you can start to make it better",
+        "So let it out and let it in, hey Jude, begin\nYou're waiting for someone to perform with\nAnd don't you know that it's just you?\nHey Jude, you'll do\nThe movement you need is on your shoulder (Na-na-na-na-na)",
+        "Hey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her under your skin,\nThen you begin to make it better\nBetter, better, better, better, better"
+      ]
     },
     "song-ill-fly-away": {
       "type": "song",
