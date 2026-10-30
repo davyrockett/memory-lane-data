@@ -1543,7 +1543,7 @@
         "What’s your favorite way to say goodbye to a friend?"
       ],
       "lyrics": "Happy trails to you, until we meet again\nHappy trails to you, keep smilin' until then\nWho cares about the clouds when we're together?\nJust sing a song and bring the sunny weather\n\nHappy trails to you,\n'Till we meet again",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T19:42:51.512Z",
       "chart": {
         "pages": [
           {
@@ -2722,7 +2722,7 @@
             "h": 2092,
             "rows": [
               [
-                0.0,
+                0,
                 0.9821
               ]
             ]
@@ -2733,8 +2733,8 @@
             "h": 2092,
             "rows": [
               [
-                0.0,
-                1.0
+                0,
+                1
               ]
             ]
           }
@@ -4842,7 +4842,7 @@
             "h": 2092,
             "rows": [
               [
-                0.0,
+                0,
                 0.1199
               ],
               [
