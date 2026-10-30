@@ -27,7 +27,7 @@
         "Do you like sunny days or cloudy days best?"
       ],
       "lyrics": "Ain't no sunshine when she's gone\nIt's not warm when she's away\nAin't no sunshine when she's gone\nAnd she's always gone too long,\nAnytime she goes away\n\nWonder this time where she's gone\nWonder if she's gone to stay\nAin't no sunshine when she's gone\nAnd this house just ain't no home,\nAnytime she goes away\n\nAnd I know, I know, I know, I know\nHey, I ought to leave young thing alone\nBut ain't no sunshine when she's gone",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -131,15 +131,15 @@
         ],
         "marks": [
           {
-            "a": 0.0587,
+            "a": 0.0497,
             "b": 0.375
           },
           {
-            "a": 0.3087,
+            "a": 0.3059,
             "b": 0.727
           },
           {
-            "a": 0.7602,
+            "a": 0.7572,
             "b": 1.2883
           }
         ]
@@ -169,7 +169,7 @@
         "Do you remember your dreams when you wake up?"
       ],
       "lyrics": "Dream, dream, dream, dream\nWhen I want you in my arms,\nWhen I want you and all your charms\nWhenever I want you, all I have to do is\nDream, dream, dream, dream\n\nWhen I feel blue in the night,\nAnd I need you to hold me tight\nWhenever I want you, all I have to do is\nDream\n\nI can make you mine, taste your lips of wine,\nAnytime, night or day\nOnly trouble is, gee whiz,\nI’m dreamin' my life away\n\nI need you so that I could die,\nI love you so and that is why\nWhenever I want you, all I have to do is\nDream, dream, dream, dream",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -278,19 +278,19 @@
         ],
         "marks": [
           {
-            "a": 0.2551,
+            "a": 0.251,
             "b": 0.4406
           },
           {
-            "a": 0.4592,
+            "a": 0.457,
             "b": 0.5638
           },
           {
-            "a": 0.6429,
+            "a": 0.59,
             "b": 0.7041
           },
           {
-            "a": 0.7347,
+            "a": 0.7318,
             "b": 0.8752
           }
         ]
@@ -323,7 +323,7 @@
         "If you could be any animal for a day, which would you be?"
       ],
       "lyrics": "Look for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nOld Mother Nature's recipes\nThat brings the bare necessities of life\n\nWherever I wander, wherever I roam,\nI couldn't be fonder of my big home\nThe bees are buzzin' in the tree\nTo make some honey just for me\nWhen you look under the rocks and plants\n\nAnd take a glance at the fancy ants,\nThen maybe try a few…\nThe bare necessities of life will come to you,\nThey’ll come to you!\n\nLook for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nThat’s why a bear can rest at ease\nWith just the bare necessities of life",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -566,27 +566,27 @@
         ],
         "marks": [
           {
-            "a": 0.2613,
+            "a": 0.2543,
             "b": 0.3673
           },
           {
-            "a": 0.3483,
+            "a": 0.3423,
             "b": 0.4388
           },
           {
-            "a": 0.4923,
+            "a": 0.488,
             "b": 0.6429
           },
           {
-            "a": 0.6531,
+            "a": 0.6329,
             "b": 0.7449
           },
           {
-            "a": 0.7846,
+            "a": 0.7777,
             "b": 0.8855
           },
           {
-            "a": 0.8717,
+            "a": 0.8652,
             "b": 0.9337
           }
         ]
@@ -618,7 +618,7 @@
         "What helps you feel free?"
       ],
       "lyrics": "Blackbird singing in the dead of night,\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise\n\nBlackbird singing in the dead of night\nTake these sunken eyes and learn to see,\nAll your life,\nYou were only waiting for this moment to be free\n\nBlackbird, fly,\nInto the light of the dark black night\n\nBlackbird singing in the dead of night\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise",
-      "updatedAt": "2026-10-30T19:56:30.197Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Blackbird singing in the dead of night,\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise\n\nBlackbird singing in the dead of night\nTake these sunken eyes and learn to see,\nAll your life,\nYou were only waiting for this moment to be free",
         "Blackbird, fly,\nInto the light of the dark black night\n\nBlackbird singing in the dead of night\nTake these broken wings and learn to fly,\nAll your life\nYou were only waiting for this moment to arise"
@@ -687,19 +687,19 @@
         ],
         "marks": [
           {
-            "a": 0.1607,
+            "a": 0.1028,
             "b": 0.2883
           },
           {
-            "a": 0.3214,
+            "a": 0.3174,
             "b": 0.449
           },
           {
-            "a": 0.5051,
+            "a": 0.4914,
             "b": 0.6633
           },
           {
-            "a": 0.8036,
+            "a": 0.71,
             "b": 0.9592
           }
         ]
@@ -731,7 +731,7 @@
         "Who was the best dancer you ever knew?"
       ],
       "lyrics": "Blue moon,\nYou saw me standing alone\nWithout a dream in my heart,\nWithout a love of my own\n\nBlue moon,\nYou knew just what I was there for\nYou heard me saying a prayer for,\nSomeone I really could care for\n\nAnd then there suddenly appeared before me\nThe only one my arms will hold\nI heard somebody whisper please adore me\nAnd when I looked to the moon it turned to gold\n\nBlue moon,\nNow I'm no longer alone\nWithout a dream in my heart,\nWithout a love of my own",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -772,19 +772,19 @@
         ],
         "marks": [
           {
-            "a": 0.1786,
+            "a": 0.1764,
             "b": 0.5128
           },
           {
-            "a": 0.3597,
+            "a": 0.3566,
             "b": 0.5234
           },
           {
-            "a": 0.5383,
+            "a": 0.5363,
             "b": 0.6939
           },
           {
-            "a": 0.7398,
+            "a": 0.7366,
             "b": 0.9037
           }
         ]
@@ -816,7 +816,7 @@
         "How did you meet someone you loved?"
       ],
       "lyrics": "Wise men say only fools rush in\nBut I can't help falling in love with you\n\nShall I stay?\nWould it be a sin\nIf I can't help falling in love with you?\n\nLike a river flows,\nSurely to the sea\nDarling, so it goes,\nSome things are meant to be\n\nTake my hand,\nTake my whole life, too\nFor I can't help falling in love with you",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -865,19 +865,19 @@
         ],
         "marks": [
           {
-            "a": 0.1173,
+            "a": 0.112,
             "b": 0.3393
           },
           {
-            "a": 0.1173,
+            "a": 0.112,
             "b": 0.3393
           },
           {
-            "a": 0.2347,
+            "a": 0.2318,
             "b": 0.4286
           },
           {
-            "a": 0.3546,
+            "a": 0.339,
             "b": 0.5434
           }
         ]
@@ -911,7 +911,7 @@
         "Have you ever been to the mountains?"
       ],
       "lyrics": "Almost Heaven, West Virginia\nBlue Ridge Mountains, Shenandoah River\nLife is old there, older than the trees\nYounger than the mountains, growin' like a breeze\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine, teardrop in my eye\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads\n\nI hear her voice in the mornin' hour, she calls me\nThe radio reminds me of my home far away\nDrivin' down the road, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\nCountry roads, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, country roads",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -1055,27 +1055,27 @@
         ],
         "marks": [
           {
-            "a": 0.1301,
+            "a": 0.1267,
             "b": 0.3036
           },
           {
-            "a": 0.3418,
+            "a": 0.3375,
             "b": 0.4348
           },
           {
-            "a": 0.4617,
+            "a": 0.457,
             "b": 0.645
           },
           {
-            "a": 0.3418,
+            "a": 0.3375,
             "b": 0.4348
           },
           {
-            "a": 0.7219,
+            "a": 0.718,
             "b": 0.9043
           },
           {
-            "a": 0.3418,
+            "a": 0.3375,
             "b": 0.4348
           }
         ]
@@ -1108,7 +1108,7 @@
         "Have you ever heard bagpipes played?"
       ],
       "lyrics": "Oh, Danny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\n\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh, Danny Boy, oh Danny Boy,\nI love you so!\n\nBut when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\n\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Oh, Danny Boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountainside,\nThe summer’s gone, and all the roses falling,\nIt’s you, it’s you must go, and I must bide.\n\nBut come ye back when summer’s in the meadow,\nOr when the valley’s hushed and white with snow,\nTis I’ll be here in sunshine or in shadow,\nOh, Danny Boy, oh Danny Boy,\nI love you so!",
         "But when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe’ll come and find the place where I am lying,\nAnd kneel and say an Ave there for me;\n\nAnd I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!"
@@ -1157,19 +1157,19 @@
         ],
         "marks": [
           {
-            "a": 0.0995,
+            "a": 0.092,
             "b": 0.5204
           },
           {
-            "a": 0.426,
+            "a": 0.424,
             "b": 0.7372
           },
           {
-            "a": 0.0995,
+            "a": 0.092,
             "b": 0.5204
           },
           {
-            "a": 0.426,
+            "a": 0.424,
             "b": 0.7372
           }
         ]
@@ -1201,7 +1201,7 @@
         "Do you like looking at the stars?"
       ],
       "lyrics": "Why does the sun go on shining?\nWhy does the sea rush to shore?\nDon't they know it's the end of the world?\n'Cause you don't love me any more\n\nWhy do the birds go on singing?\nWhy do the stars glow above?\nDon't they know it's the end of the world?\nIt ended when I lost your love\n\nI wake up in the morning and I wonder\nWhy everything's the same as it was\nI can't understand, no, I can't understand\nHow life goes on the way it does\n\nWhy does my heart go on beating?\nWhy do these eyes of mine cry?\nDon't they know it's the end of the world?\nIt ended when you said goodbye",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -1274,19 +1274,19 @@
         ],
         "marks": [
           {
-            "a": 0.4745,
+            "a": 0.4704,
             "b": 0.6148
           },
           {
-            "a": 0.5587,
+            "a": 0.545,
             "b": 0.75
           },
           {
-            "a": 0.6939,
+            "a": 0.6826,
             "b": 0.8852
           },
           {
-            "a": 0.8291,
+            "a": 0.811,
             "b": 0.9541
           }
         ]
@@ -1319,7 +1319,7 @@
         "Did you like Frank Sinatra?"
       ],
       "lyrics": "Fly me to the moon, Let me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\nIn other words hold my hand,\nIn other words darling kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for, All I worship and adore\nIn other words please be true,\nIn other words I love you",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Fly me to the moon, Let me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\nIn other words hold my hand,\nIn other words darling kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for, All I worship and adore\nIn other words please be true,\nIn other words I love you"
       ],
@@ -1359,11 +1359,11 @@
         ],
         "marks": [
           {
-            "a": 0.1276,
+            "a": 0.1248,
             "b": 0.8393
           },
           {
-            "a": 0.1276,
+            "a": 0.1248,
             "b": 0.8393
           }
         ]
@@ -1394,7 +1394,7 @@
         "What did your mama always tell you?"
       ],
       "lyrics": "I hear the train a-comin',\nIt's rolling 'round the bend\nAnd I ain't seen the sunshine since I don't know when\nI'm stuck in Folsom prison,\nAnd time keeps draggin' on\nBut that train keeps a-rollin' on down to San Antone\n\nWhen I was just a baby my mama told me, \"Son\nAlways be a good boy, don't ever play with guns\"\nBut I shot a man in Reno just to watch him die\nWhen I hear that whistle blowing,\nI hang my head and cry\n\nI bet there's rich folks eating in a fancy dining car\nThey're probably drinkin' coffee and smoking big cigars\nWell I know I had it coming,\nI know I can't be free\nBut those people keep a-movin' and that's what tortures me\n\nWell if they freed me from this prison,\nIf that railroad train was mine\nI bet I'd move it on a little farther down the line\nFar from Folsom prison,\nThat's where I want to stay\nAnd I'd let that lonesome whistle blow my blues away",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -1479,27 +1479,27 @@
         ],
         "marks": [
           {
-            "a": 0.0714,
+            "a": 0.0684,
             "b": 0.1515
           },
           {
-            "a": 0.1201,
+            "a": 0.1157,
             "b": 0.2041
           },
           {
-            "a": 0.2449,
+            "a": 0.2304,
             "b": 0.3723
           },
           {
-            "a": 0.4056,
+            "a": 0.4015,
             "b": 0.5314
           },
           {
-            "a": 0.5944,
+            "a": 0.5923,
             "b": 0.676
           },
           {
-            "a": 0.6913,
+            "a": 0.6874,
             "b": 0.7423
           }
         ]
@@ -1531,7 +1531,7 @@
         "Do you like a good spooky story?"
       ],
       "lyrics": "An old cowboy went riding out one dark and windy day\nUpon a ridge he rested as he went along his way\nWhen all at once a mighty herd of red eyed cows he saw\nPlowin' through the ragged skies and up the cloudy draw\n\nTheir brands were still on fire and their hooves were made of steel\nTheir horns were black and shiny and their hot breath he could feel\nA bolt of fear went through him as they thundered through the sky\nFor he saw the riders coming hard,\nAnd he heard their mournful cry\n\n[Chorus]\nYippie-yi-o, Yippie-yi-yay,\nGhost riders in the sky\n\nTheir faces gaunt, their eyes were blurred,\nTheir shirts all soaked with sweat\nHe's riding hard to catch that herd but he ain't caught 'em yet\n\n'Cause they've got to ride forever on that range up in the sky\nOn horses snorting fire,\nAs they ride on, hear their cry\n\n[Chorus]\nYippie-yi-o, Yippie-yi-yay,\nGhost riders in the sky\n\nAs the riders loped on by him he heard one call his name\n'If you wanna save your soul from hell a-riding on our range\n\nThen, cowboy, change your ways today or with us you will ride\nTrying to catch the devil's herd across these endless skies\n\n[Chorus]\nYippie-yi-o, Yippie-yi-yay,\nGhost riders in the sky",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "An old cowboy went riding out one dark and windy day\nUpon a ridge he rested as he went along his way\nWhen all at once a mighty herd of red eyed cows he saw\nPlowin' through the ragged skies and up the cloudy draw\n\nTheir brands were still on fire and their hooves were made of steel\nTheir horns were black and shiny and their hot breath he could feel\nA bolt of fear went through him as they thundered through the sky\nFor he saw the riders coming hard,\nAnd he heard their mournful cry",
         "[Chorus]\nYippie-yi-o, Yippie-yi-yay,\nGhost riders in the sky",
@@ -1590,11 +1590,11 @@
             "b": 0.131
           },
           {
-            "a": 0.17,
+            "a": 0.155,
             "b": 0.278
           },
           {
-            "a": 0.315,
+            "a": 0.3126,
             "b": 0.401
           },
           {
@@ -1602,19 +1602,19 @@
             "b": 0.613
           },
           {
-            "a": 0.608,
+            "a": 0.5961,
             "b": 0.683
           },
           {
-            "a": 0.315,
+            "a": 0.3126,
             "b": 0.401
           },
           {
-            "a": 0.722,
+            "a": 0.707,
             "b": 0.784
           },
           {
-            "a": 0.784,
+            "a": 0.7815,
             "b": 0.833
           },
           {
@@ -1653,7 +1653,7 @@
         "What’s your favorite way to say goodbye to a friend?"
       ],
       "lyrics": "Happy trails to you, until we meet again\nHappy trails to you, keep smilin' until then\nWho cares about the clouds when we're together?\nJust sing a song and bring the sunny weather\n\nHappy trails to you,\n'Till we meet again",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -1702,11 +1702,11 @@
         ],
         "marks": [
           {
-            "a": 0.0995,
+            "a": 0.0966,
             "b": 0.7066
           },
           {
-            "a": 0.523,
+            "a": 0.5206,
             "b": 0.7066
           }
         ]
@@ -1738,7 +1738,7 @@
         "Who was your favorite singer when you were a teenager?"
       ],
       "lyrics": "Well, since my baby left me,\nI found a new place to dwell\nDown at the end of Lonely Street\nAt Heartbreak Hotel\n\n[Chorus]\nWhere I'll be, I'll be so lonely, baby,\nI’ll be so lonely, I could die\n\nWell, although it's always crowded,\nYou still could find some room\nFor broken-hearted lovers to cry there in their gloom\n\n[Chorus]\nWhere I'll be, I'll be so lonely, baby,\nI’ll be so lonely, I could die\n\nWell, now, if your baby leaves you,\nYou need a place to dwell\nJust take a walk down Lonely Street\nTo Heartbreak Hotel\n\n[Chorus]\nWhere I'll be, I'll be so lonely, baby,\nI’ll be so lonely, I could die",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -1803,28 +1803,28 @@
         ],
         "marks": [
           {
-            "a": 0.051,
+            "a": 0.0464,
             "b": 0.2551
           },
           {
-            "a": 0.2092,
+            "a": 0.1898,
             "b": 0.3418
           },
           {
-            "a": 0.2959,
+            "a": 0.2925,
             "b": 0.4362
           },
           {
-            "a": 0.3903,
+            "a": 0.3858,
             "b": 0.551
           },
           {
-            "a": 0.051,
+            "a": 0.0464,
             "b": 0.2551,
             "note": "Verse 3 words are at the bottom"
           },
           {
-            "a": 0.2092,
+            "a": 0.2051,
             "b": 0.3418
           }
         ]
@@ -1856,7 +1856,7 @@
         "Did you have a garden?"
       ],
       "lyrics": "Here comes the sun, doo-doo-doo\nHere comes the sun\nAnd I say, \"It's all right\"\n\nLittle darlin’,\nIt's been a long, cold, lonely winter\nLittle darlin’,\nIt feels like years since it's been here\n\nHere comes the sun, doo-doo-do,\nHere comes the sun\nAnd I say, \"It's all right”\n\nLittle darlin’,\nThe smile's returning to the faces\nLittle darlin’,\nIt seems like years since it's been here\n\nHere comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"\n\nSun, sun, sun, here it comes\n\nLittle darlin’,\nI feel that ice is slowly melting\nLittle darlin’,\nIt seems like years since it's been clear\n\nHere comes the sun,\nHere comes the sun,\nAnd I say, \"It's all right\"",
-      "updatedAt": "2026-10-30T19:56:30.197Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Here comes the sun, doo-doo-doo\nHere comes the sun\nAnd I say, \"It's all right\"\n\nLittle darlin’,\nIt's been a long, cold, lonely winter\nLittle darlin’,\nIt feels like years since it's been here",
         "Here comes the sun, doo-doo-do,\nHere comes the sun\nAnd I say, \"It's all right”\n\nLittle darlin’,\nThe smile's returning to the faces\nLittle darlin’,\nIt seems like years since it's been here",
@@ -1943,35 +1943,35 @@
         ],
         "marks": [
           {
-            "a": 0.1607,
+            "a": 0.1587,
             "b": 0.2908
           },
           {
-            "a": 0.3189,
+            "a": 0.316,
             "b": 0.4084
           },
           {
-            "a": 0.1607,
+            "a": 0.1587,
             "b": 0.2908
           },
           {
-            "a": 0.477,
+            "a": 0.4732,
             "b": 0.5641
           },
           {
-            "a": 0.1607,
+            "a": 0.1587,
             "b": 0.2908
           },
           {
-            "a": 0.6352,
+            "a": 0.631,
             "b": 0.6802
           },
           {
-            "a": 0.7015,
+            "a": 0.6984,
             "b": 0.7892
           },
           {
-            "a": 0.1607,
+            "a": 0.1587,
             "b": 0.2908
           }
         ]
@@ -2005,7 +2005,7 @@
         "Where did you go on a date?"
       ],
       "lyrics": "[Chorus]\nSay hey, good lookin' - what ya got cookin'?\nHow's about cooking somethin' up with me?\nHey, sweet baby - don't you think maybe\nWe can find us a brand new recipe?\n\nI got a hot rod Ford, and a two dollar bill\nAnd I know a spot right over the hill\nThere's soda pop and the dancing's free\nSo if you wanna have fun, come along with me\n\nI'm gonna throw my date book over the fence\nAnd buy me one for five or ten cents\nI'll keep it till it's covered with age\nCause I'm writin' your name down on every page\n\n[Chorus]\nSay hey, good lookin' - what ya got cookin'?\nHow's about cooking somethin' up with me?\nHey, sweet baby - don't you think maybe\nWe can find us a brand new recipe?",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -2098,19 +2098,19 @@
         ],
         "marks": [
           {
-            "a": 0.2015,
+            "a": 0.174,
             "b": 0.3827
           },
           {
-            "a": 0.4082,
+            "a": 0.4054,
             "b": 0.6071
           },
           {
-            "a": 0.2551,
+            "a": 0.1993,
             "b": 0.3586
           },
           {
-            "a": 0.6403,
+            "a": 0.6372,
             "b": 0.7347
           }
         ]
@@ -2144,7 +2144,7 @@
         "Where did you like to go outdoors?"
       ],
       "lyrics": "Oh, give me a home where the buffalo roam,\nWhere the deer and the antelope play,\nWhere seldom is heard a discouraging word\nAnd the skies are not cloudy all day.\n\n[Chorus]\nHome, home on the range,\nWhere the deer and the antelope play;\nWhere seldom is heard a discouraging word\nAnd the skies are not cloudy all day.",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -2260,11 +2260,11 @@
         ],
         "marks": [
           {
-            "a": 0.8291,
+            "a": 0.8207,
             "b": 1.0969
           },
           {
-            "a": 1.0332,
+            "a": 1.0277,
             "b": 1.2347
           }
         ]
@@ -2296,7 +2296,7 @@
         "Do you like to sing along out loud?"
       ],
       "lyrics": "Hey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her into your heart,\nThen you can start to make it better\n\nHey Jude, don't be afraid,\nYou were made to go out and get her\nThe minute you let her under your skin,\nThen you begin to make it better\n\nAnd anytime you feel the pain, hey Jude, refrain\nDon't carry the world upon your shoulders\nFor, well, you know that it's a fool who plays it cool\nBy making his world a little colder (Na-na-na-na-na, na-na-na-na)\n\nHey Jude, don't let me down,\nYou have found her, now go and get her\nRemember to let her into your heart,\nThen you can start to make it better\n\nSo let it out and let it in, hey Jude, begin\nYou're waiting for someone to perform with\nAnd don't you know that it's just you?\nHey Jude, you'll do\nThe movement you need is on your shoulder (Na-na-na-na-na)\n\nHey Jude, don't make it bad,\nTake a sad song and make it better\nRemember to let her under your skin,\nThen you begin to make it better\nBetter, better, better, better, better",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -2396,27 +2396,27 @@
         ],
         "marks": [
           {
-            "a": 0.125,
+            "a": 0.1205,
             "b": 0.4388
           },
           {
-            "a": 0.3597,
+            "a": 0.3552,
             "b": 0.6735
           },
           {
-            "a": 0.7117,
+            "a": 0.6965,
             "b": 1.3418
           },
           {
-            "a": 0.3597,
+            "a": 0.3552,
             "b": 0.6735
           },
           {
-            "a": 0.7117,
+            "a": 0.6965,
             "b": 1.3418
           },
           {
-            "a": 1.3903,
+            "a": 1.3867,
             "b": 1.8112
           }
         ]
@@ -2448,7 +2448,7 @@
         "Did you ever sing in a choir?"
       ],
       "lyrics": "Some bright morning when this life is over,\nI’ll fly away\nTo that home on God’s celestial shore,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nWhen the shadows of this life have gone,\nI’ll fly away\nLike a bird from prison bars has flown,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nOh how glad and happy when we meet,\nI’ll fly away\nNo more cold iron shackles on my feet,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away\n\nJust a few more weary days and then,\nI’ll fly away\nTo a land where joys will never end,\nI’ll fly away\n\n[Chorus]\nI’ll fly away oh glory, I’ll fly away\nWhen I die hallelujah by and by,\nI’ll fly away",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -2537,35 +2537,35 @@
         ],
         "marks": [
           {
-            "a": 0.1403,
+            "a": 0.1367,
             "b": 0.2245
           },
           {
-            "a": 0.2551,
+            "a": 0.251,
             "b": 0.3367
           },
           {
-            "a": 0.3699,
+            "a": 0.3657,
             "b": 0.449
           },
           {
-            "a": 0.2551,
+            "a": 0.251,
             "b": 0.3367
           },
           {
-            "a": 0.5281,
+            "a": 0.5258,
             "b": 0.6097
           },
           {
-            "a": 0.2551,
+            "a": 0.251,
             "b": 0.3367
           },
           {
-            "a": 0.6888,
+            "a": 0.6859,
             "b": 0.773
           },
           {
-            "a": 0.2551,
+            "a": 0.251,
             "b": 0.3367
           }
         ]
@@ -2596,7 +2596,7 @@
         "How do you like to help other people?"
       ],
       "lyrics": "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on\n\nPlease swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on\n\nYou just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on\n\nIf there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on",
         "Please swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long,\n’Til I'm gonna need, Somebody to lean on",
@@ -2770,11 +2770,11 @@
         ],
         "marks": [
           {
-            "a": 0.23,
+            "a": 0.2251,
             "b": 0.342
           },
           {
-            "a": 0.388,
+            "a": 0.3853,
             "b": 0.502
           },
           {
@@ -2782,23 +2782,23 @@
             "b": 0.607
           },
           {
-            "a": 0.388,
+            "a": 0.3853,
             "b": 0.502
           },
           {
-            "a": 0.665,
+            "a": 0.6616,
             "b": 0.749
           },
           {
-            "a": 0.795,
+            "a": 0.7921,
             "b": 0.907
           },
           {
-            "a": 1.182,
+            "a": 1.1783,
             "b": 1.335
           },
           {
-            "a": 0.795,
+            "a": 0.7921,
             "b": 0.907
           }
         ]
@@ -2830,7 +2830,7 @@
         "Did your mother have a favorite saying?"
       ],
       "lyrics": "When I find myself in times of trouble,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nAnd in my hour of darkness she is standing right in front of me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nAnd when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nThere is still a chance that they will see\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be, be\n\nAnd when the night is cloudy,\nthere is still a light that shines on me\nShinin' until tomorrow, let it be\nI wake up to the sound of music,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "When I find myself in times of trouble,\nMother Mary comes to me\nSpeaking words of wisdom, let it be\n\nAnd in my hour of darkness she is standing right in front of me\nSpeaking words of wisdom, let it be\n\nLet it be, let it be, let it be, let it be\nWhisper words of wisdom, let it be",
         "And when the broken hearted people living in the world agree\nThere will be an answer, let it be\n\nFor though they may be parted,\nThere is still a chance that they will see\nThere will be an answer, let it be\n\nLet it be, let it be, let it be, let it be\nThere will be an answer, let it be",
@@ -2952,43 +2952,43 @@
         ],
         "marks": [
           {
-            "a": 0.0714,
+            "a": 0.0684,
             "b": 0.2934
           },
           {
-            "a": 0.0714,
+            "a": 0.0684,
             "b": 0.4107
           },
           {
-            "a": 0.4413,
+            "a": 0.4168,
             "b": 0.6122
           },
           {
-            "a": 0.5485,
+            "a": 0.5445,
             "b": 0.8827
           },
           {
-            "a": 0.7857,
+            "a": 0.7811,
             "b": 1.1429
           },
           {
-            "a": 1.1888,
+            "a": 1.163,
             "b": 1.4031
           },
           {
-            "a": 1.3087,
+            "a": 1.3045,
             "b": 1.5026
           },
           {
-            "a": 0.4413,
+            "a": 0.4379,
             "b": 0.6122
           },
           {
-            "a": 0.5485,
+            "a": 0.5445,
             "b": 1.1429
           },
           {
-            "a": 1.6607,
+            "a": 1.6372,
             "b": 1.8724,
             "note": "Coda"
           }
@@ -3021,7 +3021,7 @@
         "Do you remember Nat King Cole’s voice?"
       ],
       "lyrics": "L is for the way you look at me\nO is for the only one I see\nV is very, very extraordinary\nE is even more than anyone that you adore can\n\n[Chorus]\nLove is all that I can give to you\nLove is more than just a game for two\nTwo in love can make it,\nTake my heart and please don't break it\nLove was made for me and you",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -3129,11 +3129,11 @@
         ],
         "marks": [
           {
-            "a": 0.1531,
+            "a": 0.145,
             "b": 0.304
           },
           {
-            "a": 0.3036,
+            "a": 0.2992,
             "b": 0.4933
           }
         ]
@@ -3165,7 +3165,7 @@
         "What’s the prettiest lake you’ve ever seen?"
       ],
       "lyrics": "By yon bonnie banks and by yon bonnie braes,\nWhere the sun shines bright on Loch Lomond,\nWhere me and my true love were ever wont to gae,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\n[Chorus]\nO ye'll tak' the high road,\nAnd I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\n'Twas there that we parted, in yon shady glen,\nOn the steep, steep side o' Ben Lomond,\nWhere in soft purple hue,\nThe highland hills we view,\nAnd the moon coming out in the gloaming.\n\n[Chorus]\nO ye'll tak' the high road,\nAnd I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.\n\nThe wee birdies sing and the wildflowers spring,\nAnd in sunshine the waters are sleeping.\nBut the broken heart it kens nae second spring again,\nThough the waeful may cease frae their grieving.\n\n[Chorus]\nO ye'll tak' the high road,\nAnd I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -3206,27 +3206,27 @@
         ],
         "marks": [
           {
-            "a": 0.0893,
+            "a": 0.0851,
             "b": 0.2092
           },
           {
-            "a": 0.2296,
+            "a": 0.2251,
             "b": 0.3614
           },
           {
-            "a": 0.3699,
+            "a": 0.3652,
             "b": 0.4898
           },
           {
-            "a": 0.5102,
+            "a": 0.5053,
             "b": 0.6405
           },
           {
-            "a": 0.648,
+            "a": 0.6453,
             "b": 0.7704
           },
           {
-            "a": 0.7908,
+            "a": 0.7854,
             "b": 0.9195
           }
         ]
@@ -3259,7 +3259,7 @@
         "Who was a good friend you went exploring with?"
       ],
       "lyrics": "Moon river, wider than a mile,\nI’m crossing you in style some day\nOh, dream maker, you heart breaker\nWherever you're going, I'm going your way\n\nTwo drifters, off to see the world,\nThere’s such a lot of world to see\nWe're after the same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me\n\nOh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world\nThere's such a lot of world to see\nWe're after that same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Moon river, wider than a mile,\nI’m crossing you in style some day\nOh, dream maker, you heart breaker\nWherever you're going, I'm going your way\n\nTwo drifters, off to see the world,\nThere’s such a lot of world to see\nWe're after the same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me",
         "Oh, dream maker, you heart breaker\nWherever you're going,\nI'm going your way\n\nTwo drifters, off to see the world\nThere's such a lot of world to see\nWe're after that same rainbow's end,\nWaiting, round the bend\nMy Huckleberry Friend,\nMoon River, and me"
@@ -3291,7 +3291,7 @@
         ],
         "marks": [
           {
-            "a": 0.195,
+            "a": 0.1735,
             "b": 0.88
           },
           {
@@ -3335,7 +3335,7 @@
         "What’s your favorite thing to eat?"
       ],
       "lyrics": "Raindrops on roses and whiskers on kittens\nBright copper kettles and warm woolen mittens\nBrown paper packages tied up with strings\nThese are a few of my favorite things\n\nCream-colored ponies and crisp apple strudels\nDoorbells and sleigh bells and schnitzel with noodles\nWild geese that fly with the moon on their wings\nThese are a few of my favorite things\n\nGirls in white dresses with blue satin sashes\nSnowflakes that stay on my nose and eyelashes\nSilver-white winters that melt into springs\nThese are a few of my favorite things\n\nWhen the dog bites,\nWhen the bee stings,\nWhen I'm feeling sad\nI simply remember my favorite things and then I don't feel so bad",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -3483,7 +3483,7 @@
         ],
         "marks": [
           {
-            "a": 0.1276,
+            "a": 0.122,
             "b": 0.3084
           },
           {
@@ -3491,11 +3491,11 @@
             "b": 0.4726
           },
           {
-            "a": 0.4031,
+            "a": 0.3776,
             "b": 0.6833
           },
           {
-            "a": 0.7551,
+            "a": 0.7533,
             "b": 0.8941
           }
         ]
@@ -3526,7 +3526,7 @@
         "What job did you love?"
       ],
       "lyrics": "And now, the end is near,\nAnd so I face the final curtain\nMy friend, I'll say it clear,\nI’ll state my case, of which I'm certain\n\nI've lived a life that's full,\nI traveled each and every highway\nAnd more, much more than this,\nI did it my way\n\nRegrets, I've had a few,\nBut then again, too few to mention\nI did what I had to do,\nAnd saw it through without exemption\n\nI planned each charted course,\nEach careful step along the byway\nAnd more, much more than this,\nI did it my way\n\nYes, there were times, I'm sure you knew\nWhen I bit off more than I could chew\nBut through it all, when there was doubt,\nI ate it up and spit it out\nI faced it all, and I stood tall,\nAnd did it my way",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -3710,23 +3710,23 @@
             "b": 0.3546
           },
           {
-            "a": 0.3648,
+            "a": 0.3423,
             "b": 0.4682
           },
           {
-            "a": 0.4847,
+            "a": 0.4823,
             "b": 0.6148
           },
           {
-            "a": 0.625,
+            "a": 0.6023,
             "b": 0.7298
           },
           {
-            "a": 0.7449,
+            "a": 0.7424,
             "b": 0.875
           },
           {
-            "a": 1.0842,
+            "a": 1.0808,
             "b": 1.1281
           }
         ]
@@ -3758,7 +3758,7 @@
         "Have you ever seen Willie Nelson?"
       ],
       "lyrics": "On the road again,\nI just can't wait to get on the road again\nThe life I love is making music with my friends\nAnd I can't wait to get on the road again\n\nOn the road again,\nGoin’ places that I've never been\nSeein' things that I may never see again\nAnd I can't wait to get on the road again\n\n[Chorus]\nOn the road again,\nLike a band o' gypsies, we go down the highway\nWe're the best of friends,\nInsisting that the world keep turning our way\nAnd our way is on the road again\n\nOn the road again,\nI just can't wait to get on the road again\nThe life I love is making music with my friends\nAnd I can't wait to get on the road again\n\nOn the road again,\nGoin’ places that I've never been\nSeein' things that I may never see again\nAnd I can't wait to get on the road again\n\n[Chorus]\nOn the road again,\nLike a band o' gypsies, we go down the highway\nWe're the best of friends,\nInsisting that the world keep turning our way\nAnd our way is on the road again",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "On the road again,\nI just can't wait to get on the road again\nThe life I love is making music with my friends\nAnd I can't wait to get on the road again\n\nOn the road again,\nGoin’ places that I've never been\nSeein' things that I may never see again\nAnd I can't wait to get on the road again",
         "[Chorus]\nOn the road again,\nLike a band o' gypsies, we go down the highway\nWe're the best of friends,\nInsisting that the world keep turning our way\nAnd our way is on the road again",
@@ -3848,27 +3848,27 @@
         ],
         "marks": [
           {
-            "a": 0.09,
+            "a": 0.0177,
             "b": 0.205
           },
           {
-            "a": 0.244,
+            "a": 0.2419,
             "b": 0.357
           },
           {
-            "a": 0.398,
+            "a": 0.3958,
             "b": 0.54
           },
           {
-            "a": 0.58,
+            "a": 0.5779,
             "b": 0.695
           },
           {
-            "a": 0.244,
+            "a": 0.2419,
             "b": 0.357
           },
           {
-            "a": 0.818,
+            "a": 0.7725,
             "b": 0.96
           }
         ]
@@ -3900,7 +3900,7 @@
         "Do you like Latin music for dancing?"
       ],
       "lyrics": "You won't admit you love me,\nAnd so, how am I ever, to know?\nYou always tell me \"Perhaps, perhaps, perhaps\"\n\nA million times I've asked you, and then,\nI ask you over, again\nYou only answer \"Perhaps, perhaps, perhaps\"\n\nIf you can't make your mind up,\nWe’ll never, get started\nAnd I don't wanna wind up,\nBeing parted, brokenhearted\n\nSo if you really love me, say yes,\nBut if you don't dear, confess\nAnd please don't tell me \"Perhaps, perhaps, perhaps\"",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -4032,19 +4032,19 @@
         ],
         "marks": [
           {
-            "a": 0.1811,
+            "a": 0.1783,
             "b": 0.3036
           },
           {
-            "a": 0.3138,
+            "a": 0.2906,
             "b": 0.4337
           },
           {
-            "a": 0.5204,
+            "a": 0.5182,
             "b": 0.677
           },
           {
-            "a": 0.6888,
+            "a": 0.6869,
             "b": 0.8054
           }
         ]
@@ -4076,7 +4076,7 @@
         "What do you do on a rainy day?"
       ],
       "lyrics": "Raindrops keep falling on my head\nAnd just like the guy whose feet are too big for his bed,\nNothing seems to fit\nThose raindrops are falling on my head,\nThey keep falling\n\nSo I just did me some talking to the sun\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the job\nThose raindrops are falling on my head,\nThey keep fallin'\n\nBut there's one thing I know,\nThe blues they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\nRaindrops keep falling on my head\nBut that doesn't mean my eyes will soon be turning red\nCrying's not for me 'cause,\nI'm never gonna stop the rain by complaining\nBecause I'm free,\nNothing’s worrying me",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Raindrops keep falling on my head\nAnd just like the guy whose feet are too big for his bed,\nNothing seems to fit\nThose raindrops are falling on my head,\nThey keep falling\n\nSo I just did me some talking to the sun\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the job\nThose raindrops are falling on my head,\nThey keep fallin'",
         "But there's one thing I know,\nThe blues they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\nRaindrops keep falling on my head\nBut that doesn't mean my eyes will soon be turning red\nCrying's not for me 'cause,\nI'm never gonna stop the rain by complaining\nBecause I'm free,\nNothing’s worrying me"
@@ -4161,19 +4161,19 @@
         ],
         "marks": [
           {
-            "a": 0.2148,
+            "a": 0.2089,
             "b": 0.3342
           },
           {
-            "a": 0.3727,
+            "a": 0.3681,
             "b": 0.5077
           },
           {
-            "a": 0.4888,
+            "a": 0.4837,
             "b": 0.6378
           },
           {
-            "a": 0.677,
+            "a": 0.6707,
             "b": 0.865
           }
         ]
@@ -4205,7 +4205,7 @@
         "Who did you write letters to?"
       ],
       "lyrics": "Return to sender, Return to sender\nI gave a letter to the postman,\nHe put it in his sack\nBright and early next morning,\nHe brought my letter back (He wrote upon it)\n\nReturn to sender, address unknown,\nNo such number, no such zone\nWe had a quarrel, a lover's spat\nI write I'm sorry, but my letter keeps coming back\n\nSo then I dropped it in the mailbox,\nAnd sent it special D\nBright and early next morning,\nIt came right back to me\n\nReturn to sender, address unknown,\nNo such person, no such zone\n\nThis time I'm gonna take it myself\nAnd put it right in her hand\nAnd if it comes back the very next day\nThen I'll understand (the writing on it)\n\nReturn to sender, address unknown,\nNo such person, no such zone\nReturn to sender, address unknown,\nNo such person, no such zone",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Return to sender, Return to sender\nI gave a letter to the postman,\nHe put it in his sack\nBright and early next morning,\nHe brought my letter back (He wrote upon it)\n\nReturn to sender, address unknown,\nNo such number, no such zone\nWe had a quarrel, a lover's spat\nI write I'm sorry, but my letter keeps coming back",
         "So then I dropped it in the mailbox,\nAnd sent it special D\nBright and early next morning,\nIt came right back to me\n\nReturn to sender, address unknown,\nNo such person, no such zone",
@@ -4279,27 +4279,27 @@
         ],
         "marks": [
           {
-            "a": 0.3163,
+            "a": 0.2983,
             "b": 0.4464
           },
           {
-            "a": 0.4847,
+            "a": 0.4771,
             "b": 0.6939
           },
           {
-            "a": 0.3163,
+            "a": 0.3098,
             "b": 0.4464
           },
           {
-            "a": 0.4847,
+            "a": 0.4771,
             "b": 0.6046
           },
           {
-            "a": 0.7143,
+            "a": 0.6845,
             "b": 0.8291
           },
           {
-            "a": 0.8648,
+            "a": 0.8571,
             "b": 0.9872
           }
         ]
@@ -4331,7 +4331,7 @@
         "What’s the best love story you know?"
       ],
       "lyrics": "Love is a burning thing,\nAnd it makes a fiery ring\nBound by wild desire,\nI fell into a ring of fire\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe ring of fire, the ring of fire\n\nThe taste of love is sweet,\nWhen hearts like ours meet\nI fell for you like a child,\nOh, but the fire went wild\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe ring of fire, the ring of fire",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Love is a burning thing,\nAnd it makes a fiery ring\nBound by wild desire,\nI fell into a ring of fire\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe ring of fire, the ring of fire",
         "The taste of love is sweet,\nWhen hearts like ours meet\nI fell for you like a child,\nOh, but the fire went wild\n\n[Chorus]\nI fell into a burning ring of fire\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe ring of fire, the ring of fire"
@@ -4435,19 +4435,19 @@
         ],
         "marks": [
           {
-            "a": 0.0281,
+            "a": 0.0249,
             "b": 0.1556
           },
           {
-            "a": 0.1939,
+            "a": 0.183,
             "b": 0.3291
           },
           {
-            "a": 0.7168,
+            "a": 0.7141,
             "b": 0.8578
           },
           {
-            "a": 0.8827,
+            "a": 0.8781,
             "b": 1.1046
           }
         ]
@@ -4479,7 +4479,7 @@
         "Can anyone here whistle?"
       ],
       "lyrics": "Sittin' in the mornin' sun,\nI’ll be sittin' when the evenin' come\nWatching the ships roll in,\nAnd then I watch 'em roll away again, yeah\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay\nWastin' time\n\nI left my home in Georgia,\nHeaded for the 'Frisco bay\nI've had nothing to live for,\nLook like nothin's gonna come my way\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay\nWastin' time\n\nLook like nothing's gonna change,\nEverything still remains the same\nI can't do what ten people tell me to do,\nSo I guess I'll remain the same\n\nSittin' here resting my bones,\nAnd this loneliness won't leave me alone\nIt's two thousand miles I roamed,\nJust to make this dock my home\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay\nWastin' time",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Sittin' in the mornin' sun,\nI’ll be sittin' when the evenin' come\nWatching the ships roll in,\nAnd then I watch 'em roll away again, yeah\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay\nWastin' time",
         "I left my home in Georgia,\nHeaded for the 'Frisco bay\nI've had nothing to live for,\nLook like nothin's gonna come my way\n\nI'm sittin' on the dock of the bay,\nWatching the tide roll away\nI'm just sittin' on the dock of the bay\nWastin' time",
@@ -4633,7 +4633,7 @@
         ],
         "marks": [
           {
-            "a": 0.1454,
+            "a": 0.1424,
             "b": 0.3
           },
           {
@@ -4641,23 +4641,23 @@
             "b": 0.4362
           },
           {
-            "a": 0.4821,
+            "a": 0.4799,
             "b": 0.6046
           },
           {
-            "a": 0.6531,
+            "a": 0.6487,
             "b": 0.773
           },
           {
-            "a": 1.0791,
+            "a": 1.075,
             "b": 1.1633
           },
           {
-            "a": 1.1735,
+            "a": 1.1496,
             "b": 1.3059
           },
           {
-            "a": 1.3214,
+            "a": 1.3188,
             "b": 1.4729
           }
         ]
@@ -4689,7 +4689,7 @@
         "What would you wish for on a star?"
       ],
       "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream\nReally do come true\n\nSomeday I'll wish upon a star\nAnd wake up where the clouds are far behind me\nWhere troubles melt like lemon drops\nAway above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
-      "updatedAt": "2026-10-30T16:38:15.191970Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "capo": "4",
       "chart": {
         "pages": [
@@ -4747,25 +4747,25 @@
         ],
         "marks": [
           {
-            "a": 0.1035,
+            "a": 0.1015,
             "b": 0.3271,
             "note": "1st ending"
           },
           {
-            "a": 0.1035,
+            "a": 0.1015,
             "b": 0.3271,
             "note": "2nd ending"
           },
           {
-            "a": 0.3482,
+            "a": 0.3466,
             "b": 0.5388
           },
           {
-            "a": 0.5741,
+            "a": 0.5722,
             "b": 0.7647
           },
           {
-            "a": 0.6871,
+            "a": 0.6852,
             "b": 0.7647,
             "note": "Tag: like the last line"
           }
@@ -4798,7 +4798,7 @@
         "Who did you call on the phone the most?"
       ],
       "lyrics": "Imagine me and you, I do,\nI think about you day and night,\nIt’s only right\nTo think about the girl you love and hold her tight,\nSo happy together\n\nIf I should call you up, invest a dime\nAnd you say you belong to me,\nAnd ease my mind\nImagine how the world could be,\nSo very fine,\nSo happy together\n\nI can't see me lovin' nobody but you for all my life\nWhen you're with me, baby,\nThe skies will be blue for all my life\n\nMe and you, and you and me\nNo matter how they tossed the dice it had to be\nThe only one for me is you,\nAnd you for me,\nSo happy together\n\nI can't see me lovin' nobody but you for all my life\nWhen you're with me, baby,\nThe skies will be blue for all my life",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Imagine me and you, I do,\nI think about you day and night,\nIt’s only right\nTo think about the girl you love and hold her tight,\nSo happy together\n\nIf I should call you up, invest a dime\nAnd you say you belong to me,\nAnd ease my mind\nImagine how the world could be,\nSo very fine,\nSo happy together",
         "I can't see me lovin' nobody but you for all my life\nWhen you're with me, baby,\nThe skies will be blue for all my life",
@@ -4873,23 +4873,23 @@
         ],
         "marks": [
           {
-            "a": 0.125,
+            "a": 0.1224,
             "b": 0.273
           },
           {
-            "a": 0.125,
+            "a": 0.1224,
             "b": 0.273
           },
           {
-            "a": 0.2985,
+            "a": 0.2839,
             "b": 0.3954
           },
           {
-            "a": 0.4158,
+            "a": 0.3858,
             "b": 0.5204
           },
           {
-            "a": 0.2985,
+            "a": 0.2839,
             "b": 0.3954
           }
         ]
@@ -4919,7 +4919,7 @@
         "Did you like Simon & Garfunkel?"
       ],
       "lyrics": "Hello, darkness, my old friend,\nI’ve come to talk with you again\nBecause a vision softly creeping,\nLeft its seeds while I was sleeping\nAnd the vision that was planted in my brain\nStill remains\nWithin the sound of silence\n\nIn restless dreams I walked alone,\nNarrow streets of cobblestone\n'Neath the halo of a streetlamp,\nI turned my collar to the cold and damp\nWhen my eyes were stabbed by the flash of a neon light\nThat split the night\nAnd touched the sound of silence\n\nAnd in the naked light I saw,\nTen thousand people, maybe more\nPeople talking without speaking,\nPeople hearing without listening\nPeople writing songs that voices never share,\nNo one dared\nDisturb the sound of silence\n\n\"Fools,\" said I, \"You do not know,\nSilence like a cancer grows\nHear my words that I might teach you,\nTake my arms that I might reach you.\"\nBut my words like silent raindrops fell,\nAnd echoed in the wells of silence\n\nAnd the people bowed and prayed,\nTo the neon god they made\nAnd the sign flashed out its warning,\nIn the words that it was forming\nAnd the sign said,\n\"The words of the prophets are written on the subway walls\nAnd tenement halls,\nAnd whispered in the sounds of silence.\"",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -5119,43 +5119,43 @@
         ],
         "marks": [
           {
-            "a": 0.1173,
+            "a": 0.1123,
             "b": 0.2755
           },
           {
-            "a": 0.2474,
+            "a": 0.2247,
             "b": 0.3699
           },
           {
-            "a": 0.4005,
+            "a": 0.3934,
             "b": 0.5496
           },
           {
-            "a": 0.4005,
+            "a": 0.3934,
             "b": 0.6888
           },
           {
-            "a": 0.7168,
+            "a": 0.7122,
             "b": 0.875
           },
           {
-            "a": 1.0791,
+            "a": 1.0755,
             "b": 1.1355
           },
           {
-            "a": 1.1531,
+            "a": 1.1496,
             "b": 1.2934
           },
           {
-            "a": 1.1531,
+            "a": 1.1496,
             "b": 1.3878
           },
           {
-            "a": 1.4158,
+            "a": 1.4125,
             "b": 1.5587
           },
           {
-            "a": 1.6607,
+            "a": 1.6568,
             "b": 1.7577
           }
         ]
@@ -5187,7 +5187,7 @@
         "What helps you feel brave?"
       ],
       "lyrics": "When the night has come,\nAnd the land is dark\nAnd the moon is the only light we'll see\nNo, I won't be afraid,\n\nOh, I won't be afraid\nJust as long as you stand, Stand by me\n\nSo darlin', darlin’\nStand by me\n\nIf the sky that we look upon,\nShould tumble and fall\nOr the mountain should crumble to the sea\nI won't cry, I won't cry,\nNo, I won't shed a tear\nJust as long as you stand,\nStand by me\n\nSo darlin', darlin’\nStand by me",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "When the night has come,\nAnd the land is dark\nAnd the moon is the only light we'll see\nNo, I won't be afraid,\n\nOh, I won't be afraid\nJust as long as you stand, Stand by me\n\nSo darlin', darlin’\nStand by me",
         "If the sky that we look upon,\nShould tumble and fall\nOr the mountain should crumble to the sea\nI won't cry, I won't cry,\nNo, I won't shed a tear\nJust as long as you stand,\nStand by me\n\nSo darlin', darlin’\nStand by me"
@@ -5304,23 +5304,23 @@
         ],
         "marks": [
           {
-            "a": 0.1862,
+            "a": 0.1826,
             "b": 0.3112
           },
           {
-            "a": 0.2781,
+            "a": 0.251,
             "b": 0.3597
           },
           {
-            "a": 0.4158,
+            "a": 0.4116,
             "b": 0.4949
           },
           {
-            "a": 0.5281,
+            "a": 0.5258,
             "b": 0.6786
           },
           {
-            "a": 0.7577,
+            "a": 0.7548,
             "b": 0.8163
           }
         ]
@@ -5354,7 +5354,7 @@
         "Who made the best home cooking in your family?"
       ],
       "lyrics": "When the moon hits your eye\nLike a big pizza pie, that's amore\nWhen the world seems to shine\nLike you've had too much wine, that's amore\n\nBells will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing, \"Vita bella\"\nHearts will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the stars make you drool\nJust like a pasta e fasule, that's amore\nWhen you dance down the street\nWith a cloud at your feet, you're in love\n\nWhen you walk in a dream\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -5423,19 +5423,19 @@
         ],
         "marks": [
           {
-            "a": 0.1862,
+            "a": 0.1826,
             "b": 0.2794
           },
           {
-            "a": 0.301,
+            "a": 0.2739,
             "b": 0.4082
           },
           {
-            "a": 0.4592,
+            "a": 0.457,
             "b": 0.5638
           },
           {
-            "a": 0.574,
+            "a": 0.5488,
             "b": 0.6456
           }
         ]
@@ -5467,7 +5467,7 @@
         "Do you remember Louis Armstrong’s trumpet?"
       ],
       "lyrics": "I see trees of green, red roses too\nI see them bloom for me and for you\nAnd I think to myself,\nWhat a wonderful world\n\nI see skies of blue and clouds of white\nThe bright blessed days, dark sacred nights\nAnd I think to myself,\nWhat a wonderful world\n\nThe colors of the rainbow, so pretty in the sky\nAre also on the faces of people going by\nI see friends shaking hands, saying, \"How do you do?\"\nThey’re really sayin', \"I love you\"\n\nI hear babies cry, I watch them grow\nThey’ll learn much more than I'll ever know\nAnd I think to myself, What a wonderful world\nYes, I think to myself,\nWhat a wonderful world",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "I see trees of green, red roses too\nI see them bloom for me and for you\nAnd I think to myself,\nWhat a wonderful world\n\nI see skies of blue and clouds of white\nThe bright blessed days, dark sacred nights\nAnd I think to myself,\nWhat a wonderful world",
         "The colors of the rainbow, so pretty in the sky\nAre also on the faces of people going by\nI see friends shaking hands, saying, \"How do you do?\"\nThey’re really sayin', \"I love you\"\n\nI hear babies cry, I watch them grow\nThey’ll learn much more than I'll ever know\nAnd I think to myself, What a wonderful world\nYes, I think to myself,\nWhat a wonderful world"
@@ -5516,15 +5516,15 @@
             "b": 0.2449
           },
           {
-            "a": 0.148,
+            "a": 0.1453,
             "b": 0.3724
           },
           {
-            "a": 0.273,
+            "a": 0.2706,
             "b": 0.6046
           },
           {
-            "a": 0.5128,
+            "a": 0.5038,
             "b": 0.8189
           }
         ]
@@ -5556,7 +5556,7 @@
         "What’s a happy memory from long ago?"
       ],
       "lyrics": "Yesterday,\nAll my troubles seemed so far away\nNow it looks as though they're here to stay\nOh, I believe in yesterday\n\nSuddenly,\nI’m not half the man I used to be\nThere's a shadow hangin' over me\nOh, yesterday came suddenly\n\nWhy she had to go,\nI don't know, she wouldn't say\nI said something wrong, now I long for yesterday\n\nYesterday,\nLove was such an easy game to play\nNow I need a place to hide away\nOh, I believe in yesterday",
-      "updatedAt": "2026-10-30T19:56:30.197Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -5605,19 +5605,19 @@
         ],
         "marks": [
           {
-            "a": 0.1097,
+            "a": 0.1071,
             "b": 0.3469
           },
           {
-            "a": 0.1097,
+            "a": 0.1071,
             "b": 0.3469
           },
           {
-            "a": 0.4005,
+            "a": 0.3967,
             "b": 0.6531
           },
           {
-            "a": 0.6862,
+            "a": 0.612,
             "b": 0.9082
           }
         ]
@@ -5666,7 +5666,7 @@
       ],
       "type": "song",
       "lyrics": "Para bailar La Bamba, Para bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia, Para mí, para ti, Y arriba, y arriba\nY arriba, y arriba, Por ti seré, por ti seré, por ti seré\n\nBamba, bamba\n\nYo no soy marinero, Yo no soy marinero, soy capitán\nSoy capitán, soy capitán\n\nBamba, bamba",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "Para bailar La Bamba, Para bailar La Bamba\nSe necesita una poca de gracia\nUna poca de gracia, Para mí, para ti, Y arriba, y arriba\nY arriba, y arriba, Por ti seré, por ti seré, por ti seré\n\nBamba, bamba\n\nYo no soy marinero, Yo no soy marinero, soy capitán\nSoy capitán, soy capitán\n\nBamba, bamba"
       ],
@@ -5774,19 +5774,19 @@
         ],
         "marks": [
           {
-            "a": 0.2245,
+            "a": 0.2223,
             "b": 0.4133
           },
           {
-            "a": 0.6633,
+            "a": 0.6601,
             "b": 0.8214
           },
           {
-            "a": 0.4694,
+            "a": 0.4656,
             "b": 0.6071
           },
           {
-            "a": 0.6633,
+            "a": 0.6601,
             "b": 0.8214
           }
         ]
@@ -5819,7 +5819,7 @@
       ],
       "type": "song",
       "lyrics": "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\nCryin' all the time\n\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\nWell, that was just a lie\n\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nYou ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\nCryin' all the time\n\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\nWell, that was just a lie\n\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "slides": [
         "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\nCryin' all the time\n\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
         "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\nWell, that was just a lie\n\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
@@ -6009,35 +6009,35 @@
         ],
         "marks": [
           {
-            "a": 0.1025,
+            "a": 0.1004,
             "b": 0.1505
           },
           {
-            "a": 0.1888,
+            "a": 0.1773,
             "b": 0.2633
           },
           {
-            "a": 0.289,
+            "a": 0.2835,
             "b": 0.3724
           },
           {
-            "a": 0.4109,
+            "a": 0.4011,
             "b": 0.477
           },
           {
-            "a": 0.5236,
+            "a": 0.5072,
             "b": 0.5969
           },
           {
-            "a": 0.6633,
+            "a": 0.6515,
             "b": 0.7115
           },
           {
-            "a": 0.875,
+            "a": 0.8705,
             "b": 0.9219
           },
           {
-            "a": 1.0179,
+            "a": 1.0134,
             "b": 1.0717
           }
         ]
@@ -6069,7 +6069,7 @@
       ],
       "type": "song",
       "lyrics": "Edelweiss, Edelweiss\nEvery morning you greet me\nSmall and white, clean and bright\nYou look happy to meet me\nBlossom of snow, may you bloom and grow\nBloom and grow forever\nEdelweiss, Edelweiss\nBless my homeland forever\n\nEdelweiss, Edelweiss\nEvery morning you greet me\nSmall and white, clean and bright\nYou look happy to meet me\nBlossom of snow, may you bloom and grow\nBloom and grow forever\nEdelweiss, Edelweiss\nBless my homeland forever",
-      "updatedAt": "2026-10-30T18:32:37.759Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -6146,19 +6146,19 @@
         ],
         "marks": [
           {
-            "a": 0.1735,
+            "a": 0.1692,
             "b": 0.3459
           },
           {
-            "a": 0.3648,
+            "a": 0.3623,
             "b": 0.5485
           },
           {
-            "a": 0.1735,
+            "a": 0.1692,
             "b": 0.3459
           },
           {
-            "a": 0.3648,
+            "a": 0.3623,
             "b": 0.5485
           }
         ]
@@ -6189,7 +6189,7 @@
       ],
       "type": "song",
       "lyrics": "In the still of the night\nI held you\nHeld you tight\n\n'Cause I love\nLove you so\nPromise I'll never\nLet you go\nIn the still of the night\n\nI remember\nThat night in May\nThe stars were bright above\n\nI'll hope and I'll pray\nTo keep Your precious love\n\nWell before the light\nHold me again\nWith all of your might\nIn the still of the night\n\nSo before the light\nHold me again\nWith all of your might\nIn the still of the night\nIn the still of the night",
-      "updatedAt": "2026-10-30T20:06:08.930Z",
+      "updatedAt": "2026-10-30T20:31:45.000Z",
       "chart": {
         "pages": [
           {
@@ -6258,27 +6258,27 @@
         ],
         "marks": [
           {
-            "a": 0.4005,
+            "a": 0.3939,
             "b": 0.5281
           },
           {
-            "a": 0.4898,
+            "a": 0.4756,
             "b": 0.6097
           },
           {
-            "a": 0.5714,
+            "a": 0.5674,
             "b": 0.6913
           },
           {
-            "a": 0.6505,
+            "a": 0.6463,
             "b": 0.7602
           },
           {
-            "a": 0.7321,
+            "a": 0.7185,
             "b": 0.8776
           },
           {
-            "a": 0.7321,
+            "a": 0.7185,
             "b": 0.9745
           }
         ]
